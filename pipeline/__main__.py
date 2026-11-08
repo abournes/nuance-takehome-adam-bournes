@@ -17,6 +17,31 @@ OUTPUT_PATH = ROOT_DIR / "output.json"
 CONCURRENCY = 4
 REQUEST_TIMEOUT_SECONDS = 60
 MAX_ATTEMPTS = 6
+MAX_EMPTY_RETRIES = 3
+
+
+class EmptyResponseError(ValueError):
+    """The request succeeded but returned no usable transcript or alignment."""
+
+
+def parse_payload(response: httpx.Response, endpoint: str) -> dict:
+    if not response.content.strip():
+        raise EmptyResponseError("empty response body")
+    payload = response.json()
+    if payload is None or payload == []:
+        raise EmptyResponseError("empty JSON response")
+    if not isinstance(payload, dict):
+        raise ValueError(f"{endpoint} did not return a JSON object")
+
+    field, expected_type = ("text", str) if endpoint == "/transcribe" else ("words", list)
+    value = payload.get(field)
+    if value is None:
+        raise EmptyResponseError(f"response is missing '{field}' content")
+    if not isinstance(value, expected_type):
+        raise ValueError(f"response '{field}' must be a {expected_type.__name__}")
+    if not (value.strip() if isinstance(value, str) else value):
+        raise EmptyResponseError(f"response has empty '{field}' content")
+    return payload
 
 
 async def post_audio(
@@ -25,9 +50,10 @@ async def post_audio(
     path: pathlib.Path,
     transcript: str | None = None,
 ) -> dict:
-    """Upload fresh audio on each attempt; retry only transient API failures."""
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        delay = 2 ** (attempt - 1)
+    """Retry empty successes up to three times, independently of HTTP failures."""
+    request_failures = empty_retries = 0
+    while True:
+        delay = 2 ** request_failures
         try:
             with path.open("rb") as audio:
                 response = await client.post(
@@ -36,20 +62,24 @@ async def post_audio(
                     data={"transcript": transcript} if transcript is not None else None,
                 )
             response.raise_for_status()
-            payload = response.json()
-            if not isinstance(payload, dict):
-                raise ValueError(f"{endpoint} did not return a JSON object")
-            return payload
+            return parse_payload(response, endpoint)
+        except EmptyResponseError as exc:
+            if empty_retries == MAX_EMPTY_RETRIES:
+                raise EmptyResponseError(f"{exc} after {MAX_EMPTY_RETRIES} retries") from exc
+            delay = 2 ** empty_retries
+            empty_retries += 1
         except httpx.HTTPStatusError as exc:
+            request_failures += 1
             status = exc.response.status_code
-            if (status != 429 and not 500 <= status < 600) or attempt == MAX_ATTEMPTS:
+            if (status != 429 and not 500 <= status < 600) or request_failures == MAX_ATTEMPTS:
                 raise
             try:
                 delay = max(delay, float(exc.response.headers.get("Retry-After", "0")))
             except ValueError:
                 pass
         except httpx.TransportError:
-            if attempt == MAX_ATTEMPTS:
+            request_failures += 1
+            if request_failures == MAX_ATTEMPTS:
                 raise
         # Stagger retries so rate-limited workers do not all retry together.
         await asyncio.sleep(delay + random.uniform(0, 0.5))
@@ -61,17 +91,12 @@ async def process_clip(client: httpx.AsyncClient, path: pathlib.Path) -> dict:
     endpoint = "/transcribe"
     try:
         transcription = await post_audio(client, endpoint, path)
-        text = transcription.get("text")
-        if not isinstance(text, str):
-            raise ValueError("response is missing a string 'text' field")
+        text = transcription["text"]
         result["text"] = text
 
         endpoint = "/align"
         alignment = await post_audio(client, endpoint, path, transcript=text)
-        words = alignment.get("words")
-        if not isinstance(words, list):
-            raise ValueError("response is missing a 'words' list")
-        result.update(status="ok", alignment=words)
+        result.update(status="ok", alignment=alignment["words"])
     except (httpx.HTTPError, OSError, ValueError) as exc:
         result["note"] = f"{endpoint}: {type(exc).__name__}: {exc}"
     return result
