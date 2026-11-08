@@ -1,0 +1,7 @@
+requests
+python-dotenv
+
+# Used only by scripts/evaluate.py, so your local numbers are computed the
+# same way ours are.
+jiwer
+whisper-normalizer

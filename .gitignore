@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+output.json
+run_meta.json
+
+# Downloaded by `make clips`, not stored in git (~350MB).
+data/clips/
+data/clips.tar.gz

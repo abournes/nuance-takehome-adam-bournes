@@ -1,0 +1,6862 @@
+{
+  "clip_0005": [
+    {
+      "word": "All",
+      "start": 0.2,
+      "end": 0.3
+    },
+    {
+      "word": "right.",
+      "start": 0.361,
+      "end": 0.66
+    },
+    {
+      "word": "Hello.",
+      "start": 0.68,
+      "end": 0.92
+    },
+    {
+      "word": "Hello.",
+      "start": 0.92,
+      "end": 1.38
+    },
+    {
+      "word": "It",
+      "start": 1.58,
+      "end": 1.66
+    },
+    {
+      "word": "begins.",
+      "start": 1.681,
+      "end": 2.38
+    },
+    {
+      "word": "Oh,",
+      "start": 3.8,
+      "end": 4.36
+    },
+    {
+      "word": "thank",
+      "start": 4.38,
+      "end": 4.56
+    },
+    {
+      "word": "you",
+      "start": 4.58,
+      "end": 4.661
+    },
+    {
+      "word": "so",
+      "start": 4.721,
+      "end": 4.78
+    },
+    {
+      "word": "much",
+      "start": 4.84,
+      "end": 5.02
+    },
+    {
+      "word": "for,",
+      "start": 5.1,
+      "end": 5.32
+    },
+    {
+      "word": "um,",
+      "start": 5.34,
+      "end": 5.5
+    },
+    {
+      "word": "for",
+      "start": 5.681,
+      "end": 5.8
+    },
+    {
+      "word": "doing",
+      "start": 5.82,
+      "end": 6.0
+    },
+    {
+      "word": "this.",
+      "start": 6.02,
+      "end": 6.18
+    },
+    {
+      "word": "Oh,",
+      "start": 6.201,
+      "end": 6.26
+    },
+    {
+      "word": "wait,",
+      "start": 6.28,
+      "end": 6.42
+    },
+    {
+      "word": "I",
+      "start": 6.44,
+      "end": 6.48
+    },
+    {
+      "word": "have",
+      "start": 6.52,
+      "end": 6.62
+    },
+    {
+      "word": "to",
+      "start": 6.64,
+      "end": 6.721
+    },
+    {
+      "word": "make",
+      "start": 6.741,
+      "end": 6.88
+    },
+    {
+      "word": "you",
+      "start": 6.88,
+      "end": 7.0
+    },
+    {
+      "word": "big",
+      "start": 7.02,
+      "end": 7.2
+    },
+    {
+      "word": "so",
+      "start": 7.241,
+      "end": 7.32
+    },
+    {
+      "word": "that",
+      "start": 7.32,
+      "end": 7.4
+    },
+    {
+      "word": "I'm",
+      "start": 7.42,
+      "end": 7.541
+    },
+    {
+      "word": "not,",
+      "start": 7.56,
+      "end": 7.761
+    },
+    {
+      "word": "like,",
+      "start": 7.78,
+      "end": 8.001
+    },
+    {
+      "word": "staring",
+      "start": 8.42,
+      "end": 8.76
+    },
+    {
+      "word": "at",
+      "start": 8.78,
+      "end": 8.841
+    },
+    {
+      "word": "myself",
+      "start": 8.881,
+      "end": 9.28
+    },
+    {
+      "word": "all",
+      "start": 9.3,
+      "end": 9.38
+    },
+    {
+      "word": "the",
+      "start": 9.4,
+      "end": 9.48
+    },
+    {
+      "word": "time.",
+      "start": 9.52,
+      "end": 10.161
+    },
+    {
+      "word": "There",
+      "start": 10.98,
+      "end": 11.101
+    },
+    {
+      "word": "we",
+      "start": 11.121,
+      "end": 11.201
+    },
+    {
+      "word": "go.",
+      "start": 11.241,
+      "end": 11.72
+    },
+    {
+      "word": "Perfect.",
+      "start": 13.081,
+      "end": 13.581
+    },
+    {
+      "word": "Okay,",
+      "start": 13.98,
+      "end": 14.141
+    },
+    {
+      "word": "cool.",
+      "start": 14.201,
+      "end": 14.421
+    },
+    {
+      "word": "Thanks",
+      "start": 14.421,
+      "end": 14.56
+    },
+    {
+      "word": "for",
+      "start": 14.58,
+      "end": 14.661
+    },
+    {
+      "word": "doing",
+      "start": 14.68,
+      "end": 14.84
+    },
+    {
+      "word": "this.",
+      "start": 14.86,
+      "end": 15.02
+    },
+    {
+      "word": "How,",
+      "start": 15.04,
+      "end": 15.22
+    },
+    {
+      "word": "how",
+      "start": 15.261,
+      "end": 15.32
+    },
+    {
+      "word": "are",
+      "start": 15.341,
+      "end": 15.399
+    },
+    {
+      "word": "you",
+      "start": 15.399,
+      "end": 15.52
+    },
+    {
+      "word": "feeling,",
+      "start": 15.541,
+      "end": 15.84
+    },
+    {
+      "word": "by",
+      "start": 15.88,
+      "end": 15.941
+    },
+    {
+      "word": "the",
+      "start": 15.961,
+      "end": 16.04
+    },
+    {
+      "word": "way?",
+      "start": 16.06,
+      "end": 16.261
+    },
+    {
+      "word": "You",
+      "start": 18.661,
+      "end": 18.74
+    },
+    {
+      "word": "better?",
+      "start": 18.78,
+      "end": 19.14
+    },
+    {
+      "word": "Okay,",
+      "start": 19.921,
+      "end": 20.101
+    },
+    {
+      "word": "great.",
+      "start": 20.181,
+      "end": 20.661
+    },
+    {
+      "word": "Good.",
+      "start": 20.681,
+      "end": 21.14
+    },
+    {
+      "word": "Good",
+      "start": 21.421,
+      "end": 21.601
+    },
+    {
+      "word": "to",
+      "start": 21.64,
+      "end": 21.741
+    },
+    {
+      "word": "hear",
+      "start": 21.82,
+      "end": 22.021
+    },
+    {
+      "word": "it.",
+      "start": 22.081,
+      "end": 24.58
+    },
+    {
+      "word": "Oh!",
+      "start": 26.841,
+      "end": 29.22
+    },
+    {
+      "word": "Oh,",
+      "start": 33.319,
+      "end": 33.46
+    },
+    {
+      "word": "really?",
+      "start": 33.54,
+      "end": 37.04
+    },
+    {
+      "word": "Oh,",
+      "start": 39.56,
+      "end": 39.9
+    },
+    {
+      "word": "do",
+      "start": 40.1,
+      "end": 40.161
+    },
+    {
+      "word": "you",
+      "start": 40.18,
+      "end": 40.22
+    },
+    {
+      "word": "know",
+      "start": 40.241,
+      "end": 40.301
+    },
+    {
+      "word": "what",
+      "start": 40.301,
+      "end": 40.4
+    },
+    {
+      "word": "it",
+      "start": 40.42,
+      "end": 40.48
+    },
+    {
+      "word": "might",
+      "start": 40.5,
+      "end": 40.6
+    },
+    {
+      "word": "have",
+      "start": 40.621,
+      "end": 40.701
+    },
+    {
+      "word": "been?",
+      "start": 40.72,
+      "end": 43.96
+    }
+  ],
+  "clip_0007": [
+    {
+      "word": "Why",
+      "start": 0.2,
+      "end": 0.3
+    },
+    {
+      "word": "don't",
+      "start": 0.32,
+      "end": 0.42
+    },
+    {
+      "word": "you",
+      "start": 0.44,
+      "end": 0.5
+    },
+    {
+      "word": "like",
+      "start": 0.54,
+      "end": 0.66
+    },
+    {
+      "word": "seeing",
+      "start": 0.721,
+      "end": 0.881
+    },
+    {
+      "word": "yourself,",
+      "start": 0.9,
+      "end": 1.201
+    },
+    {
+      "word": "Maxine?",
+      "start": 1.22,
+      "end": 1.92
+    },
+    {
+      "word": "Uh,",
+      "start": 3.9,
+      "end": 6.36
+    },
+    {
+      "word": "what,",
+      "start": 10.561,
+      "end": 10.741
+    },
+    {
+      "word": "what",
+      "start": 10.761,
+      "end": 10.881
+    },
+    {
+      "word": "do",
+      "start": 10.9,
+      "end": 11.0
+    },
+    {
+      "word": "you",
+      "start": 11.02,
+      "end": 11.12
+    },
+    {
+      "word": "normally",
+      "start": 11.14,
+      "end": 11.36
+    },
+    {
+      "word": "do?",
+      "start": 11.42,
+      "end": 11.54
+    },
+    {
+      "word": "Do",
+      "start": 11.56,
+      "end": 11.62
+    },
+    {
+      "word": "you",
+      "start": 11.62,
+      "end": 11.68
+    },
+    {
+      "word": "end",
+      "start": 11.7,
+      "end": 11.801
+    },
+    {
+      "word": "up",
+      "start": 11.82,
+      "end": 11.901
+    },
+    {
+      "word": "staring",
+      "start": 11.96,
+      "end": 12.24
+    },
+    {
+      "word": "at",
+      "start": 12.241,
+      "end": 12.32
+    },
+    {
+      "word": "yourself?",
+      "start": 12.341,
+      "end": 15.401
+    },
+    {
+      "word": "I'm",
+      "start": 19.82,
+      "end": 19.94
+    },
+    {
+      "word": "just",
+      "start": 20.0,
+      "end": 20.12
+    },
+    {
+      "word": "teasing.",
+      "start": 20.141,
+      "end": 20.581
+    },
+    {
+      "word": "You,",
+      "start": 20.981,
+      "end": 21.2
+    },
+    {
+      "word": "you",
+      "start": 21.24,
+      "end": 21.28
+    },
+    {
+      "word": "can",
+      "start": 21.34,
+      "end": 21.44
+    },
+    {
+      "word": "actually,",
+      "start": 21.481,
+      "end": 21.801
+    },
+    {
+      "word": "if",
+      "start": 21.821,
+      "end": 21.94
+    },
+    {
+      "word": "you",
+      "start": 21.981,
+      "end": 22.081
+    },
+    {
+      "word": "hover",
+      "start": 22.101,
+      "end": 22.401
+    },
+    {
+      "word": "over",
+      "start": 22.46,
+      "end": 22.721
+    },
+    {
+      "word": "my,",
+      "start": 22.78,
+      "end": 23.081
+    },
+    {
+      "word": "um,",
+      "start": 23.141,
+      "end": 23.34
+    },
+    {
+      "word": "my,",
+      "start": 23.78,
+      "end": 23.94
+    },
+    {
+      "word": "like,",
+      "start": 23.96,
+      "end": 24.14
+    },
+    {
+      "word": "view,",
+      "start": 24.241,
+      "end": 24.54
+    },
+    {
+      "word": "in",
+      "start": 24.54,
+      "end": 24.62
+    },
+    {
+      "word": "the",
+      "start": 24.641,
+      "end": 24.741
+    },
+    {
+      "word": "top",
+      "start": 24.78,
+      "end": 24.981
+    },
+    {
+      "word": "right,",
+      "start": 25.061,
+      "end": 25.341
+    },
+    {
+      "word": "there's,",
+      "start": 25.36,
+      "end": 25.52
+    },
+    {
+      "word": "like,",
+      "start": 25.52,
+      "end": 25.641
+    },
+    {
+      "word": "an",
+      "start": 25.641,
+      "end": 25.7
+    },
+    {
+      "word": "Expand,",
+      "start": 25.74,
+      "end": 26.78
+    },
+    {
+      "word": "and",
+      "start": 26.82,
+      "end": 26.901
+    },
+    {
+      "word": "it",
+      "start": 26.921,
+      "end": 27.02
+    },
+    {
+      "word": "will",
+      "start": 27.04,
+      "end": 27.241
+    },
+    {
+      "word": "put",
+      "start": 27.261,
+      "end": 27.46
+    },
+    {
+      "word": "yours",
+      "start": 27.54,
+      "end": 27.86
+    },
+    {
+      "word": "small",
+      "start": 28.04,
+      "end": 28.321
+    },
+    {
+      "word": "and",
+      "start": 28.54,
+      "end": 28.661
+    },
+    {
+      "word": "make",
+      "start": 28.681,
+      "end": 28.801
+    },
+    {
+      "word": "mine,",
+      "start": 28.86,
+      "end": 29.06
+    },
+    {
+      "word": "like,",
+      "start": 29.081,
+      "end": 29.18
+    },
+    {
+      "word": "in",
+      "start": 29.2,
+      "end": 29.26
+    },
+    {
+      "word": "the-",
+      "start": 29.28,
+      "end": 29.36
+    },
+    {
+      "word": "Mm,",
+      "start": 32.781,
+      "end": 33.241
+    }
+  ],
+  "clip_0016": [
+    {
+      "word": "Mm-hmm.",
+      "start": 0.2,
+      "end": 2.86
+    },
+    {
+      "word": "Mm-hmm.",
+      "start": 4.741,
+      "end": 7.581
+    },
+    {
+      "word": "Yeah.",
+      "start": 12.46,
+      "end": 13.001
+    },
+    {
+      "word": "Yeah.",
+      "start": 13.661,
+      "end": 13.961
+    },
+    {
+      "word": "Oh!",
+      "start": 15.581,
+      "end": 26.72
+    },
+    {
+      "word": "Really?",
+      "start": 26.84,
+      "end": 31.081
+    },
+    {
+      "word": "Oh!",
+      "start": 35.92,
+      "end": 36.041
+    },
+    {
+      "word": "Oh,",
+      "start": 36.041,
+      "end": 36.06
+    },
+    {
+      "word": "my",
+      "start": 36.121,
+      "end": 36.221
+    },
+    {
+      "word": "gosh,",
+      "start": 36.341,
+      "end": 36.801
+    },
+    {
+      "word": "no",
+      "start": 36.841,
+      "end": 36.94
+    },
+    {
+      "word": "way.",
+      "start": 37.02,
+      "end": 41.52
+    },
+    {
+      "word": "Wow.",
+      "start": 43.94,
+      "end": 49.6
+    },
+    {
+      "word": "Yeah.",
+      "start": 54.181,
+      "end": 54.661
+    }
+  ],
+  "clip_0023": [
+    {
+      "word": "Oh,",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "yeah,",
+      "start": 0.52,
+      "end": 0.66
+    },
+    {
+      "word": "I",
+      "start": 0.721,
+      "end": 0.76
+    },
+    {
+      "word": "see.",
+      "start": 0.861,
+      "end": 1.98
+    },
+    {
+      "word": "Good,",
+      "start": 3.68,
+      "end": 3.861
+    },
+    {
+      "word": "'cause",
+      "start": 3.88,
+      "end": 4.04
+    },
+    {
+      "word": "like,",
+      "start": 4.08,
+      "end": 4.301
+    },
+    {
+      "word": "you",
+      "start": 4.621,
+      "end": 4.68
+    },
+    {
+      "word": "know,",
+      "start": 4.7,
+      "end": 4.88
+    },
+    {
+      "word": "you",
+      "start": 5.02,
+      "end": 5.1
+    },
+    {
+      "word": "also",
+      "start": 5.16,
+      "end": 5.38
+    },
+    {
+      "word": "said",
+      "start": 5.46,
+      "end": 5.58
+    },
+    {
+      "word": "you",
+      "start": 5.64,
+      "end": 5.7
+    },
+    {
+      "word": "wanna",
+      "start": 5.74,
+      "end": 5.94
+    },
+    {
+      "word": "find",
+      "start": 5.96,
+      "end": 6.12
+    },
+    {
+      "word": "the",
+      "start": 6.16,
+      "end": 6.26
+    },
+    {
+      "word": "nice",
+      "start": 6.301,
+      "end": 6.58
+    },
+    {
+      "word": "girl,",
+      "start": 6.68,
+      "end": 7.54
+    },
+    {
+      "word": "the",
+      "start": 7.56,
+      "end": 7.64
+    },
+    {
+      "word": "friendly,",
+      "start": 7.721,
+      "end": 8.201
+    },
+    {
+      "word": "warm,",
+      "start": 8.241,
+      "end": 8.6
+    },
+    {
+      "word": "happy",
+      "start": 8.621,
+      "end": 8.9
+    },
+    {
+      "word": "girl.",
+      "start": 8.96,
+      "end": 13.34
+    },
+    {
+      "word": "Oh,",
+      "start": 15.721,
+      "end": 15.801
+    },
+    {
+      "word": "okay.",
+      "start": 15.84,
+      "end": 16.141
+    },
+    {
+      "word": "Oh,",
+      "start": 16.6,
+      "end": 16.68
+    },
+    {
+      "word": "okay.",
+      "start": 16.72,
+      "end": 17.36
+    },
+    {
+      "word": "Hmm.",
+      "start": 17.381,
+      "end": 19.221
+    },
+    {
+      "word": "Yeah.",
+      "start": 23.221,
+      "end": 23.52
+    },
+    {
+      "word": "Yeah,",
+      "start": 24.361,
+      "end": 24.58
+    },
+    {
+      "word": "me",
+      "start": 25.121,
+      "end": 25.2
+    },
+    {
+      "word": "too.",
+      "start": 25.26,
+      "end": 28.84
+    },
+    {
+      "word": "Yeah.",
+      "start": 32.08,
+      "end": 32.32
+    },
+    {
+      "word": "Yeah.",
+      "start": 33.781,
+      "end": 37.5
+    },
+    {
+      "word": "Yeah,",
+      "start": 42.041,
+      "end": 42.3
+    },
+    {
+      "word": "I",
+      "start": 43.361,
+      "end": 43.361
+    },
+    {
+      "word": "think",
+      "start": 43.44,
+      "end": 43.64
+    },
+    {
+      "word": "the",
+      "start": 43.64,
+      "end": 43.8
+    },
+    {
+      "word": "thing",
+      "start": 43.841,
+      "end": 44.14
+    },
+    {
+      "word": "that",
+      "start": 44.2,
+      "end": 44.56
+    },
+    {
+      "word": "did",
+      "start": 44.6,
+      "end": 44.701
+    },
+    {
+      "word": "it",
+      "start": 44.72,
+      "end": 44.821
+    },
+    {
+      "word": "for",
+      "start": 44.84,
+      "end": 44.94
+    },
+    {
+      "word": "me",
+      "start": 44.98,
+      "end": 45.1
+    },
+    {
+      "word": "was",
+      "start": 45.179,
+      "end": 45.44
+    },
+    {
+      "word": "when",
+      "start": 45.461,
+      "end": 45.6
+    },
+    {
+      "word": "we",
+      "start": 45.621,
+      "end": 45.68
+    },
+    {
+      "word": "were",
+      "start": 45.68,
+      "end": 45.74
+    },
+    {
+      "word": "at",
+      "start": 45.76,
+      "end": 45.821
+    },
+    {
+      "word": "that",
+      "start": 45.861,
+      "end": 45.94
+    },
+    {
+      "word": "photo",
+      "start": 46.06,
+      "end": 46.3
+    },
+    {
+      "word": "booth",
+      "start": 46.361,
+      "end": 46.62
+    },
+    {
+      "word": "at",
+      "start": 46.641,
+      "end": 46.76
+    },
+    {
+      "word": "fifty-seven",
+      "start": 46.781,
+      "end": 47.361
+    },
+    {
+      "word": "for",
+      "start": 47.42,
+      "end": 47.481
+    },
+    {
+      "word": "Halloween,",
+      "start": 47.501,
+      "end": 48.64
+    },
+    {
+      "word": "and",
+      "start": 48.741,
+      "end": 49.46
+    },
+    {
+      "word": "a",
+      "start": 49.52,
+      "end": 49.621
+    },
+    {
+      "word": "bunch",
+      "start": 49.66,
+      "end": 50.0
+    },
+    {
+      "word": "of",
+      "start": 50.08,
+      "end": 50.401
+    },
+    {
+      "word": "Jen",
+      "start": 51.141,
+      "end": 51.481
+    },
+    {
+      "word": "and",
+      "start": 51.641,
+      "end": 51.76
+    },
+    {
+      "word": "her",
+      "start": 51.8,
+      "end": 51.961
+    },
+    {
+      "word": "friends",
+      "start": 51.981,
+      "end": 52.621
+    },
+    {
+      "word": "were",
+      "start": 52.68,
+      "end": 52.861
+    },
+    {
+      "word": "all",
+      "start": 52.92,
+      "end": 53.121
+    },
+    {
+      "word": "together",
+      "start": 53.141,
+      "end": 53.461
+    },
+    {
+      "word": "about",
+      "start": 53.52,
+      "end": 53.641
+    },
+    {
+      "word": "to",
+      "start": 53.68,
+      "end": 53.76
+    },
+    {
+      "word": "take",
+      "start": 53.781,
+      "end": 53.901
+    },
+    {
+      "word": "a",
+      "start": 53.92,
+      "end": 54.0
+    },
+    {
+      "word": "picture,",
+      "start": 54.02,
+      "end": 54.4
+    },
+    {
+      "word": "and",
+      "start": 54.42,
+      "end": 54.5
+    },
+    {
+      "word": "then",
+      "start": 54.52,
+      "end": 54.74
+    },
+    {
+      "word": "every",
+      "start": 54.82,
+      "end": 55.061
+    },
+    {
+      "word": "single",
+      "start": 55.221,
+      "end": 55.48
+    },
+    {
+      "word": "woman",
+      "start": 55.6,
+      "end": 55.94
+    },
+    {
+      "word": "in",
+      "start": 56.1,
+      "end": 56.201
+    },
+    {
+      "word": "the",
+      "start": 56.221,
+      "end": 56.34
+    },
+    {
+      "word": "countdown",
+      "start": 56.38,
+      "end": 56.78
+    },
+    {
+      "word": "to",
+      "start": 56.82,
+      "end": 56.9
+    },
+    {
+      "word": "the",
+      "start": 56.92,
+      "end": 56.961
+    },
+    {
+      "word": "picture",
+      "start": 57.061,
+      "end": 57.48
+    },
+    {
+      "word": "instantly",
+      "start": 58.08,
+      "end": 58.68
+    },
+    {
+      "word": "like-",
+      "start": 58.781,
+      "end": 58.84
+    },
+    {
+      "word": "like",
+      "start": 59.001,
+      "end": 59.001
+    },
+    {
+      "word": "mechanically,",
+      "start": 59.001,
+      "end": 59.76
+    },
+    {
+      "word": "perfectly",
+      "start": 59.8,
+      "end": 60.26
+    },
+    {
+      "word": "practiced,",
+      "start": 60.4,
+      "end": 61.001
+    },
+    {
+      "word": "turned",
+      "start": 61.081,
+      "end": 61.4
+    },
+    {
+      "word": "to",
+      "start": 61.4,
+      "end": 61.5
+    },
+    {
+      "word": "their",
+      "start": 61.52,
+      "end": 61.7
+    },
+    {
+      "word": "perfect",
+      "start": 61.74,
+      "end": 62.16
+    },
+    {
+      "word": "side,",
+      "start": 62.341,
+      "end": 62.92
+    },
+    {
+      "word": "perfect",
+      "start": 62.96,
+      "end": 63.361
+    },
+    {
+      "word": "pose,",
+      "start": 63.52,
+      "end": 64.08
+    },
+    {
+      "word": "put",
+      "start": 64.12,
+      "end": 64.26
+    },
+    {
+      "word": "on",
+      "start": 64.301,
+      "end": 64.46
+    },
+    {
+      "word": "this,",
+      "start": 64.5,
+      "end": 64.72
+    },
+    {
+      "word": "like,",
+      "start": 64.74,
+      "end": 64.9
+    },
+    {
+      "word": "clearly",
+      "start": 64.96,
+      "end": 65.26
+    },
+    {
+      "word": "very",
+      "start": 65.341,
+      "end": 65.62
+    },
+    {
+      "word": "practiced",
+      "start": 65.66,
+      "end": 66.06
+    },
+    {
+      "word": "facial",
+      "start": 66.18,
+      "end": 66.5
+    },
+    {
+      "word": "expression.",
+      "start": 66.6,
+      "end": 67.501
+    },
+    {
+      "word": "And",
+      "start": 67.52,
+      "end": 67.68
+    },
+    {
+      "word": "yes,",
+      "start": 67.721,
+      "end": 68.26
+    },
+    {
+      "word": "that",
+      "start": 68.321,
+      "end": 68.52
+    }
+  ],
+  "clip_0029": [
+    {
+      "word": "Right.",
+      "start": 0.2,
+      "end": 0.54
+    },
+    {
+      "word": "Yeah.",
+      "start": 1.081,
+      "end": 1.38
+    },
+    {
+      "word": "Yeah.",
+      "start": 1.521,
+      "end": 3.66
+    },
+    {
+      "word": "What",
+      "start": 5.981,
+      "end": 6.08
+    },
+    {
+      "word": "were",
+      "start": 6.1,
+      "end": 6.2
+    },
+    {
+      "word": "the",
+      "start": 6.221,
+      "end": 6.3
+    },
+    {
+      "word": "two",
+      "start": 6.32,
+      "end": 6.46
+    },
+    {
+      "word": "religions?",
+      "start": 6.5,
+      "end": 8.32
+    },
+    {
+      "word": "Yeah.",
+      "start": 10.601,
+      "end": 11.5
+    },
+    {
+      "word": "Oh,",
+      "start": 13.361,
+      "end": 13.58
+    },
+    {
+      "word": "okay.",
+      "start": 13.62,
+      "end": 13.84
+    },
+    {
+      "word": "That's",
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "word": "pretty",
+      "start": 14.021,
+      "end": 14.2
+    },
+    {
+      "word": "tough.",
+      "start": 14.221,
+      "end": 14.66
+    },
+    {
+      "word": "Yeah.",
+      "start": 14.681,
+      "end": 15.42
+    },
+    {
+      "word": "Mm-hmm.",
+      "start": 28.84,
+      "end": 32.941
+    },
+    {
+      "word": "Yeah.",
+      "start": 37.78,
+      "end": 38.12
+    }
+  ],
+  "clip_0040": [
+    {
+      "word": "These",
+      "start": 0.2,
+      "end": 0.34
+    },
+    {
+      "word": "next",
+      "start": 0.4,
+      "end": 0.62
+    },
+    {
+      "word": "five",
+      "start": 0.68,
+      "end": 0.86
+    },
+    {
+      "word": "examples",
+      "start": 0.92,
+      "end": 1.54
+    },
+    {
+      "word": "are",
+      "start": 1.6,
+      "end": 1.68
+    },
+    {
+      "word": "gonna",
+      "start": 1.72,
+      "end": 1.9
+    },
+    {
+      "word": "be",
+      "start": 1.94,
+      "end": 2.261
+    },
+    {
+      "word": "in",
+      "start": 2.3,
+      "end": 2.4
+    },
+    {
+      "word": "the",
+      "start": 2.42,
+      "end": 2.52
+    },
+    {
+      "word": "sadness/concern",
+      "start": 2.721,
+      "end": 4.6
+    },
+    {
+      "word": "category.",
+      "start": 4.701,
+      "end": 5.28
+    },
+    {
+      "word": "They're",
+      "start": 5.3,
+      "end": 5.42
+    },
+    {
+      "word": "gonna",
+      "start": 5.42,
+      "end": 5.6
+    },
+    {
+      "word": "be",
+      "start": 5.62,
+      "end": 5.7
+    },
+    {
+      "word": "getting",
+      "start": 5.741,
+      "end": 5.961
+    },
+    {
+      "word": "at",
+      "start": 6.001,
+      "end": 6.14
+    },
+    {
+      "word": "empathy",
+      "start": 6.201,
+      "end": 6.76
+    },
+    {
+      "word": "mostly.",
+      "start": 6.86,
+      "end": 8.081
+    },
+    {
+      "word": "Um,",
+      "start": 8.121,
+      "end": 8.34
+    },
+    {
+      "word": "I'll",
+      "start": 8.381,
+      "end": 8.52
+    },
+    {
+      "word": "try",
+      "start": 8.541,
+      "end": 8.721
+    },
+    {
+      "word": "my",
+      "start": 8.761,
+      "end": 8.841
+    },
+    {
+      "word": "best.",
+      "start": 8.9,
+      "end": 11.72
+    },
+    {
+      "word": "Number",
+      "start": 16.121,
+      "end": 16.36
+    },
+    {
+      "word": "one:",
+      "start": 16.44,
+      "end": 16.701
+    },
+    {
+      "word": "I'm",
+      "start": 18.26,
+      "end": 18.38
+    },
+    {
+      "word": "so",
+      "start": 18.42,
+      "end": 18.52
+    },
+    {
+      "word": "sorry.",
+      "start": 18.621,
+      "end": 19.18
+    },
+    {
+      "word": "That's,",
+      "start": 19.18,
+      "end": 19.481
+    },
+    {
+      "word": "um...",
+      "start": 19.501,
+      "end": 20.72
+    },
+    {
+      "word": "Yeah,",
+      "start": 20.721,
+      "end": 20.84
+    },
+    {
+      "word": "that's",
+      "start": 20.86,
+      "end": 21.02
+    },
+    {
+      "word": "really",
+      "start": 21.06,
+      "end": 21.221
+    },
+    {
+      "word": "hard.",
+      "start": 21.3,
+      "end": 21.86
+    },
+    {
+      "word": "Uh,",
+      "start": 21.94,
+      "end": 22.18
+    },
+    {
+      "word": "yeah,",
+      "start": 24.461,
+      "end": 24.8
+    },
+    {
+      "word": "I,",
+      "start": 24.881,
+      "end": 25.041
+    },
+    {
+      "word": "uh,",
+      "start": 25.061,
+      "end": 25.34
+    },
+    {
+      "word": "I",
+      "start": 26.52,
+      "end": 26.58
+    },
+    {
+      "word": "don't",
+      "start": 26.58,
+      "end": 26.66
+    },
+    {
+      "word": "know",
+      "start": 26.68,
+      "end": 26.741
+    },
+    {
+      "word": "what",
+      "start": 26.74,
+      "end": 26.82
+    },
+    {
+      "word": "to",
+      "start": 26.84,
+      "end": 26.92
+    },
+    {
+      "word": "say",
+      "start": 27.0,
+      "end": 27.22
+    },
+    {
+      "word": "other",
+      "start": 27.46,
+      "end": 27.66
+    },
+    {
+      "word": "than-",
+      "start": 27.68,
+      "end": 27.76
+    },
+    {
+      "word": "and",
+      "start": 27.88,
+      "end": 28.0
+    },
+    {
+      "word": "I'm",
+      "start": 28.68,
+      "end": 28.78
+    },
+    {
+      "word": "here,",
+      "start": 28.881,
+      "end": 29.54
+    },
+    {
+      "word": "and",
+      "start": 29.58,
+      "end": 29.68
+    },
+    {
+      "word": "I",
+      "start": 29.72,
+      "end": 29.8
+    },
+    {
+      "word": "know,",
+      "start": 29.82,
+      "end": 30.201
+    },
+    {
+      "word": "I",
+      "start": 30.241,
+      "end": 30.281
+    },
+    {
+      "word": "know",
+      "start": 30.32,
+      "end": 30.42
+    },
+    {
+      "word": "it's",
+      "start": 30.44,
+      "end": 30.62
+    },
+    {
+      "word": "tough,",
+      "start": 30.66,
+      "end": 31.0
+    },
+    {
+      "word": "and",
+      "start": 31.04,
+      "end": 31.12
+    },
+    {
+      "word": "I",
+      "start": 31.16,
+      "end": 31.2
+    },
+    {
+      "word": "kn-",
+      "start": 31.241,
+      "end": 31.3
+    },
+    {
+      "word": "I,",
+      "start": 31.4,
+      "end": 31.62
+    },
+    {
+      "word": "you",
+      "start": 31.62,
+      "end": 31.68
+    },
+    {
+      "word": "know,",
+      "start": 31.68,
+      "end": 31.78
+    },
+    {
+      "word": "I",
+      "start": 31.859,
+      "end": 31.9
+    },
+    {
+      "word": "hate",
+      "start": 32.0,
+      "end": 32.16
+    },
+    {
+      "word": "that",
+      "start": 32.181,
+      "end": 32.261
+    },
+    {
+      "word": "your",
+      "start": 32.281,
+      "end": 32.4
+    },
+    {
+      "word": "family",
+      "start": 32.44,
+      "end": 32.721
+    },
+    {
+      "word": "is",
+      "start": 32.741,
+      "end": 32.86
+    },
+    {
+      "word": "going",
+      "start": 32.9,
+      "end": 33.12
+    },
+    {
+      "word": "through",
+      "start": 33.14,
+      "end": 33.32
+    },
+    {
+      "word": "this,",
+      "start": 33.36,
+      "end": 33.64
+    },
+    {
+      "word": "but,",
+      "start": 33.681,
+      "end": 34.121
+    },
+    {
+      "word": "but",
+      "start": 34.16,
+      "end": 34.281
+    },
+    {
+      "word": "whatever",
+      "start": 34.701,
+      "end": 35.02
+    },
+    {
+      "word": "you",
+      "start": 35.08,
+      "end": 35.14
+    },
+    {
+      "word": "need",
+      "start": 35.241,
+      "end": 35.54
+    },
+    {
+      "word": "from",
+      "start": 35.82,
+      "end": 36.0
+    },
+    {
+      "word": "me,",
+      "start": 36.041,
+      "end": 36.461
+    },
+    {
+      "word": "like,",
+      "start": 36.501,
+      "end": 36.761
+    },
+    {
+      "word": "I,",
+      "start": 36.841,
+      "end": 37.081
+    },
+    {
+      "word": "yeah,",
+      "start": 37.86,
+      "end": 38.12
+    },
+    {
+      "word": "I'm,",
+      "start": 38.161,
+      "end": 38.36
+    },
+    {
+      "word": "um,",
+      "start": 38.36,
+      "end": 38.9
+    },
+    {
+      "word": "I'm,",
+      "start": 38.92,
+      "end": 39.04
+    },
+    {
+      "word": "I'm",
+      "start": 39.14,
+      "end": 39.22
+    },
+    {
+      "word": "here",
+      "start": 39.241,
+      "end": 39.4
+    },
+    {
+      "word": "for",
+      "start": 39.46,
+      "end": 39.541
+    },
+    {
+      "word": "you.",
+      "start": 39.56,
+      "end": 50.88
+    },
+    {
+      "word": "Number",
+      "start": 50.901,
+      "end": 51.12
+    },
+    {
+      "word": "two,",
+      "start": 51.161,
+      "end": 52.74
+    },
+    {
+      "word": "um,",
+      "start": 52.9,
+      "end": 53.241
+    },
+    {
+      "word": "yeah,",
+      "start": 54.82,
+      "end": 54.981
+    },
+    {
+      "word": "I've,",
+      "start": 55.02,
+      "end": 55.44
+    },
+    {
+      "word": "uh,",
+      "start": 56.4,
+      "end": 56.84
+    },
+    {
+      "word": "yeah-",
+      "start": 57.58,
+      "end": 57.76
+    },
+    {
+      "word": "Yeah,",
+      "start": 57.94,
+      "end": 57.94
+    },
+    {
+      "word": "I've,",
+      "start": 57.961,
+      "end": 58.36
+    },
+    {
+      "word": "I've",
+      "start": 58.42,
+      "end": 58.52
+    },
+    {
+      "word": "been",
+      "start": 58.54,
+      "end": 58.6
+    },
+    {
+      "word": "thinking,",
+      "start": 58.68,
+      "end": 59.42
+    },
+    {
+      "word": "um,",
+      "start": 59.42,
+      "end": 59.76
+    },
+    {
+      "word": "thinking",
+      "start": 60.281,
+      "end": 60.46
+    },
+    {
+      "word": "about",
+      "start": 60.501,
+      "end": 60.66
+    },
+    {
+      "word": "her",
+      "start": 60.68,
+      "end": 60.8
+    },
+    {
+      "word": "a",
+      "start": 60.82,
+      "end": 60.88
+    },
+    {
+      "word": "lot.",
+      "start": 60.92,
+      "end": 61.44
+    },
+    {
+      "word": "Like,",
+      "start": 61.44,
+      "end": 61.64
+    }
+  ],
+  "clip_0046": [
+    {
+      "word": "This",
+      "start": 0.2,
+      "end": 0.42
+    },
+    {
+      "word": "last",
+      "start": 0.46,
+      "end": 0.78
+    },
+    {
+      "word": "category",
+      "start": 0.82,
+      "end": 1.36
+    },
+    {
+      "word": "is",
+      "start": 1.541,
+      "end": 1.7
+    },
+    {
+      "word": "the",
+      "start": 1.761,
+      "end": 1.86
+    },
+    {
+      "word": "disgust/disapproval",
+      "start": 1.92,
+      "end": 4.22
+    },
+    {
+      "word": "category.",
+      "start": 4.34,
+      "end": 5.06
+    },
+    {
+      "word": "As",
+      "start": 6.24,
+      "end": 6.361
+    },
+    {
+      "word": "before,",
+      "start": 6.381,
+      "end": 6.68
+    },
+    {
+      "word": "there",
+      "start": 6.7,
+      "end": 6.78
+    },
+    {
+      "word": "will",
+      "start": 6.801,
+      "end": 6.901
+    },
+    {
+      "word": "be",
+      "start": 6.921,
+      "end": 7.061
+    },
+    {
+      "word": "five",
+      "start": 7.12,
+      "end": 7.361
+    },
+    {
+      "word": "examples.",
+      "start": 7.501,
+      "end": 9.48
+    },
+    {
+      "word": "He",
+      "start": 11.101,
+      "end": 11.24
+    },
+    {
+      "word": "presented",
+      "start": 11.28,
+      "end": 11.66
+    },
+    {
+      "word": "your",
+      "start": 11.7,
+      "end": 11.82
+    },
+    {
+      "word": "slides?",
+      "start": 11.94,
+      "end": 13.08
+    },
+    {
+      "word": "Like,",
+      "start": 13.1,
+      "end": 14.001
+    },
+    {
+      "word": "wait,",
+      "start": 14.041,
+      "end": 14.42
+    },
+    {
+      "word": "wi-",
+      "start": 14.44,
+      "end": 14.641
+    },
+    {
+      "word": "without",
+      "start": 14.661,
+      "end": 14.84
+    },
+    {
+      "word": "your",
+      "start": 14.86,
+      "end": 15.041
+    },
+    {
+      "word": "name",
+      "start": 15.08,
+      "end": 15.36
+    },
+    {
+      "word": "even",
+      "start": 15.4,
+      "end": 15.62
+    },
+    {
+      "word": "being",
+      "start": 15.641,
+      "end": 15.821
+    },
+    {
+      "word": "on",
+      "start": 15.86,
+      "end": 15.961
+    },
+    {
+      "word": "it?",
+      "start": 16.02,
+      "end": 16.28
+    },
+    {
+      "word": "Like,",
+      "start": 16.301,
+      "end": 17.36
+    },
+    {
+      "word": "ah,",
+      "start": 17.461,
+      "end": 18.2
+    },
+    {
+      "word": "ugh!",
+      "start": 18.32,
+      "end": 19.36
+    },
+    {
+      "word": "I",
+      "start": 19.4,
+      "end": 19.44
+    },
+    {
+      "word": "don't",
+      "start": 19.461,
+      "end": 19.541
+    },
+    {
+      "word": "understand",
+      "start": 19.541,
+      "end": 19.901
+    },
+    {
+      "word": "how",
+      "start": 19.921,
+      "end": 20.02
+    },
+    {
+      "word": "someone",
+      "start": 20.1,
+      "end": 20.44
+    },
+    {
+      "word": "does",
+      "start": 20.48,
+      "end": 20.721
+    },
+    {
+      "word": "that",
+      "start": 20.76,
+      "end": 20.921
+    },
+    {
+      "word": "and",
+      "start": 20.98,
+      "end": 21.12
+    },
+    {
+      "word": "just",
+      "start": 21.18,
+      "end": 21.301
+    },
+    {
+      "word": "looks",
+      "start": 21.7,
+      "end": 21.981
+    },
+    {
+      "word": "everyone",
+      "start": 22.02,
+      "end": 22.34
+    },
+    {
+      "word": "in",
+      "start": 22.36,
+      "end": 22.461
+    },
+    {
+      "word": "the",
+      "start": 22.481,
+      "end": 22.62
+    },
+    {
+      "word": "eye",
+      "start": 22.7,
+      "end": 22.92
+    },
+    {
+      "word": "afterwards.",
+      "start": 23.06,
+      "end": 23.6
+    },
+    {
+      "word": "They",
+      "start": 23.6,
+      "end": 23.7
+    },
+    {
+      "word": "just",
+      "start": 23.78,
+      "end": 23.94
+    },
+    {
+      "word": "take",
+      "start": 23.98,
+      "end": 24.18
+    },
+    {
+      "word": "all",
+      "start": 24.32,
+      "end": 24.42
+    },
+    {
+      "word": "the",
+      "start": 24.461,
+      "end": 24.581
+    },
+    {
+      "word": "credit.",
+      "start": 24.66,
+      "end": 25.041
+    },
+    {
+      "word": "Fuck!",
+      "start": 25.34,
+      "end": 25.7
+    },
+    {
+      "word": "Ah,",
+      "start": 27.48,
+      "end": 27.801
+    },
+    {
+      "word": "anyway-",
+      "start": 27.881,
+      "end": 28.02
+    },
+    {
+      "word": "I",
+      "start": 28.14,
+      "end": 28.14
+    },
+    {
+      "word": "like",
+      "start": 28.16,
+      "end": 28.32
+    },
+    {
+      "word": "that",
+      "start": 28.34,
+      "end": 28.5
+    },
+    {
+      "word": "guy.",
+      "start": 28.52,
+      "end": 30.441
+    },
+    {
+      "word": "Number",
+      "start": 34.881,
+      "end": 35.14
+    },
+    {
+      "word": "two.",
+      "start": 35.24,
+      "end": 35.58
+    },
+    {
+      "word": "Ah,",
+      "start": 36.12,
+      "end": 36.501
+    },
+    {
+      "word": "no,",
+      "start": 36.6,
+      "end": 36.721
+    },
+    {
+      "word": "no,",
+      "start": 36.78,
+      "end": 36.781
+    },
+    {
+      "word": "no,",
+      "start": 36.861,
+      "end": 37.101
+    },
+    {
+      "word": "no,",
+      "start": 37.101,
+      "end": 37.181
+    },
+    {
+      "word": "please,",
+      "start": 37.2,
+      "end": 37.541
+    },
+    {
+      "word": "stop",
+      "start": 38.66,
+      "end": 38.98
+    },
+    {
+      "word": "describing",
+      "start": 39.06,
+      "end": 39.82
+    },
+    {
+      "word": "it!",
+      "start": 39.841,
+      "end": 41.24
+    },
+    {
+      "word": "Oh,",
+      "start": 41.26,
+      "end": 41.421
+    },
+    {
+      "word": "that's",
+      "start": 41.461,
+      "end": 41.62
+    },
+    {
+      "word": "horrible.",
+      "start": 41.62,
+      "end": 42.26
+    },
+    {
+      "word": "No,",
+      "start": 42.6,
+      "end": 42.7
+    },
+    {
+      "word": "no,",
+      "start": 42.72,
+      "end": 42.82
+    },
+    {
+      "word": "no,",
+      "start": 42.84,
+      "end": 42.941
+    },
+    {
+      "word": "no,",
+      "start": 42.961,
+      "end": 43.101
+    },
+    {
+      "word": "I,",
+      "start": 43.141,
+      "end": 43.32
+    },
+    {
+      "word": "I",
+      "start": 43.34,
+      "end": 43.42
+    },
+    {
+      "word": "really,",
+      "start": 43.461,
+      "end": 43.68
+    },
+    {
+      "word": "I",
+      "start": 43.721,
+      "end": 43.84
+    },
+    {
+      "word": "don't",
+      "start": 43.86,
+      "end": 43.98
+    },
+    {
+      "word": "want",
+      "start": 44.001,
+      "end": 44.12
+    },
+    {
+      "word": "that",
+      "start": 44.141,
+      "end": 44.219
+    },
+    {
+      "word": "image",
+      "start": 44.26,
+      "end": 44.42
+    },
+    {
+      "word": "in",
+      "start": 44.44,
+      "end": 44.521
+    },
+    {
+      "word": "my",
+      "start": 44.52,
+      "end": 44.601
+    },
+    {
+      "word": "head.",
+      "start": 44.641,
+      "end": 44.78
+    },
+    {
+      "word": "Like,",
+      "start": 44.78,
+      "end": 44.881
+    },
+    {
+      "word": "we're",
+      "start": 44.981,
+      "end": 45.141
+    },
+    {
+      "word": "about",
+      "start": 45.221,
+      "end": 45.481
+    },
+    {
+      "word": "to",
+      "start": 45.501,
+      "end": 45.661
+    },
+    {
+      "word": "eat,",
+      "start": 45.741,
+      "end": 46.001
+    },
+    {
+      "word": "like,",
+      "start": 46.021,
+      "end": 46.32
+    },
+    {
+      "word": "why",
+      "start": 46.901,
+      "end": 47.06
+    },
+    {
+      "word": "would",
+      "start": 47.141,
+      "end": 47.3
+    },
+    {
+      "word": "you",
+      "start": 47.321,
+      "end": 47.501
+    },
+    {
+      "word": "tell",
+      "start": 47.541,
+      "end": 47.741
+    },
+    {
+      "word": "me",
+      "start": 47.841,
+      "end": 47.92
+    },
+    {
+      "word": "that?",
+      "start": 48.0,
+      "end": 48.18
+    },
+    {
+      "word": "That's",
+      "start": 48.18,
+      "end": 48.341
+    },
+    {
+      "word": "horrible!",
+      "start": 48.42,
+      "end": 58.02
+    }
+  ],
+  "clip_0061": [
+    {
+      "word": "Yeah.",
+      "start": 7.2,
+      "end": 7.579
+    },
+    {
+      "word": "Oh,",
+      "start": 9.999,
+      "end": 10.139
+    },
+    {
+      "word": "really?",
+      "start": 10.219,
+      "end": 10.899
+    },
+    {
+      "word": "Oh,",
+      "start": 14.139,
+      "end": 14.239
+    },
+    {
+      "word": "that's",
+      "start": 14.259,
+      "end": 14.4
+    },
+    {
+      "word": "nice.",
+      "start": 14.439,
+      "end": 14.759
+    },
+    {
+      "word": "That's",
+      "start": 14.92,
+      "end": 15.079
+    },
+    {
+      "word": "quite",
+      "start": 15.119,
+      "end": 15.259
+    },
+    {
+      "word": "nice.",
+      "start": 15.3,
+      "end": 15.519
+    },
+    {
+      "word": "We're",
+      "start": 15.539,
+      "end": 15.619
+    },
+    {
+      "word": "all",
+      "start": 15.639,
+      "end": 15.739
+    },
+    {
+      "word": "getting",
+      "start": 15.759,
+      "end": 15.979
+    },
+    {
+      "word": "old.",
+      "start": 16.099,
+      "end": 16.539
+    },
+    {
+      "word": "This",
+      "start": 16.639,
+      "end": 16.739
+    },
+    {
+      "word": "is",
+      "start": 16.779,
+      "end": 16.86
+    },
+    {
+      "word": "the",
+      "start": 16.9,
+      "end": 16.959
+    },
+    {
+      "word": "problem.",
+      "start": 17.019,
+      "end": 17.659
+    },
+    {
+      "word": "It's",
+      "start": 19.26,
+      "end": 19.44
+    },
+    {
+      "word": "just,",
+      "start": 19.539,
+      "end": 20.319
+    },
+    {
+      "word": "it's",
+      "start": 20.34,
+      "end": 20.459
+    },
+    {
+      "word": "just",
+      "start": 20.499,
+      "end": 20.6
+    },
+    {
+      "word": "quite,",
+      "start": 20.68,
+      "end": 21.159
+    },
+    {
+      "word": "quite",
+      "start": 21.199,
+      "end": 21.32
+    },
+    {
+      "word": "nice",
+      "start": 21.44,
+      "end": 21.74
+    },
+    {
+      "word": "to",
+      "start": 21.8,
+      "end": 21.959
+    },
+    {
+      "word": "just",
+      "start": 22.099,
+      "end": 22.22
+    },
+    {
+      "word": "be-",
+      "start": 22.479,
+      "end": 22.659
+    },
+    {
+      "word": "stay",
+      "start": 22.72,
+      "end": 22.9
+    },
+    {
+      "word": "in",
+      "start": 22.92,
+      "end": 22.999
+    },
+    {
+      "word": "and",
+      "start": 23.039,
+      "end": 23.159
+    },
+    {
+      "word": "be",
+      "start": 23.199,
+      "end": 23.3
+    },
+    {
+      "word": "cozy.",
+      "start": 23.4,
+      "end": 24.479
+    },
+    {
+      "word": "Uh...",
+      "start": 24.539,
+      "end": 26.18
+    },
+    {
+      "word": "Oh,",
+      "start": 28.26,
+      "end": 28.38
+    },
+    {
+      "word": "did",
+      "start": 28.44,
+      "end": 28.6
+    },
+    {
+      "word": "you?",
+      "start": 28.62,
+      "end": 29.359
+    },
+    {
+      "word": "Yeah.",
+      "start": 29.42,
+      "end": 29.64
+    },
+    {
+      "word": "I",
+      "start": 31.84,
+      "end": 31.88
+    },
+    {
+      "word": "love",
+      "start": 31.94,
+      "end": 32.039
+    },
+    {
+      "word": "Worms",
+      "start": 32.06,
+      "end": 32.319
+    },
+    {
+      "word": "fan.",
+      "start": 32.379,
+      "end": 32.699
+    },
+    {
+      "word": "It's",
+      "start": 32.7,
+      "end": 32.84
+    },
+    {
+      "word": "a",
+      "start": 32.86,
+      "end": 32.899
+    },
+    {
+      "word": "good",
+      "start": 32.94,
+      "end": 33.04
+    },
+    {
+      "word": "one.",
+      "start": 33.1,
+      "end": 34.78
+    },
+    {
+      "word": "Um,",
+      "start": 35.88,
+      "end": 36.359
+    },
+    {
+      "word": "yes,",
+      "start": 38.1,
+      "end": 38.319
+    },
+    {
+      "word": "I",
+      "start": 38.359,
+      "end": 38.439
+    },
+    {
+      "word": "think",
+      "start": 38.46,
+      "end": 38.6
+    },
+    {
+      "word": "so.",
+      "start": 38.659,
+      "end": 39.239
+    },
+    {
+      "word": "Yes.",
+      "start": 39.279,
+      "end": 40.639
+    },
+    {
+      "word": "Yeah.",
+      "start": 40.659,
+      "end": 40.899
+    },
+    {
+      "word": "Yeah,",
+      "start": 41.639,
+      "end": 42.079
+    },
+    {
+      "word": "nice.",
+      "start": 42.14,
+      "end": 42.539
+    },
+    {
+      "word": "Nice.",
+      "start": 42.899,
+      "end": 43.379
+    },
+    {
+      "word": "Why",
+      "start": 43.8,
+      "end": 44.019
+    },
+    {
+      "word": "do",
+      "start": 44.14,
+      "end": 44.219
+    },
+    {
+      "word": "you",
+      "start": 44.259,
+      "end": 44.319
+    },
+    {
+      "word": "like",
+      "start": 44.4,
+      "end": 44.599
+    },
+    {
+      "word": "it",
+      "start": 44.619,
+      "end": 44.699
+    },
+    {
+      "word": "more?",
+      "start": 44.779,
+      "end": 46.179
+    },
+    {
+      "word": "Yeah,",
+      "start": 50.56,
+      "end": 50.699
+    },
+    {
+      "word": "the",
+      "start": 50.74,
+      "end": 50.8
+    },
+    {
+      "word": "art's",
+      "start": 50.819,
+      "end": 51.059
+    },
+    {
+      "word": "great,",
+      "start": 51.1,
+      "end": 51.499
+    },
+    {
+      "word": "yeah.",
+      "start": 51.559,
+      "end": 53.079
+    },
+    {
+      "word": "Yeah.",
+      "start": 54.039,
+      "end": 55.699
+    }
+  ],
+  "clip_0063": [
+    {
+      "word": "\"Here",
+      "start": 0.4,
+      "end": 0.5
+    },
+    {
+      "word": "we",
+      "start": 0.521,
+      "end": 0.601
+    },
+    {
+      "word": "go!",
+      "start": 0.62,
+      "end": 0.9
+    },
+    {
+      "word": "Lock",
+      "start": 1.7,
+      "end": 1.88
+    },
+    {
+      "word": "in.\"",
+      "start": 1.92,
+      "end": 2.28
+    },
+    {
+      "word": "Um,",
+      "start": 2.521,
+      "end": 2.6
+    },
+    {
+      "word": "especially",
+      "start": 2.62,
+      "end": 2.94
+    },
+    {
+      "word": "with",
+      "start": 2.94,
+      "end": 3.04
+    },
+    {
+      "word": "the",
+      "start": 3.04,
+      "end": 3.099
+    },
+    {
+      "word": "same",
+      "start": 3.12,
+      "end": 3.26
+    },
+    {
+      "word": "people?",
+      "start": 3.34,
+      "end": 5.12
+    },
+    {
+      "word": "Uh,",
+      "start": 7.06,
+      "end": 7.161
+    },
+    {
+      "word": "it",
+      "start": 7.22,
+      "end": 7.281
+    },
+    {
+      "word": "actually",
+      "start": 7.321,
+      "end": 7.521
+    },
+    {
+      "word": "depends",
+      "start": 7.54,
+      "end": 7.781
+    },
+    {
+      "word": "on",
+      "start": 7.8,
+      "end": 7.861
+    },
+    {
+      "word": "who",
+      "start": 7.861,
+      "end": 7.981
+    },
+    {
+      "word": "I'm",
+      "start": 7.981,
+      "end": 8.081
+    },
+    {
+      "word": "speaking",
+      "start": 8.1,
+      "end": 8.46
+    },
+    {
+      "word": "to.",
+      "start": 8.481,
+      "end": 8.741
+    },
+    {
+      "word": "So,",
+      "start": 8.741,
+      "end": 9.06
+    },
+    {
+      "word": "uh,",
+      "start": 9.1,
+      "end": 9.38
+    },
+    {
+      "word": "I",
+      "start": 9.6,
+      "end": 9.68
+    },
+    {
+      "word": "don't",
+      "start": 9.7,
+      "end": 9.881
+    },
+    {
+      "word": "find",
+      "start": 9.901,
+      "end": 10.081
+    },
+    {
+      "word": "talking",
+      "start": 10.1,
+      "end": 10.3
+    },
+    {
+      "word": "to",
+      "start": 10.34,
+      "end": 10.401
+    },
+    {
+      "word": "you",
+      "start": 10.441,
+      "end": 10.56
+    },
+    {
+      "word": "taxing,",
+      "start": 10.6,
+      "end": 11.28
+    },
+    {
+      "word": "which",
+      "start": 11.281,
+      "end": 11.42
+    },
+    {
+      "word": "is",
+      "start": 11.461,
+      "end": 11.56
+    },
+    {
+      "word": "nice.",
+      "start": 11.6,
+      "end": 11.981
+    },
+    {
+      "word": "Um,",
+      "start": 12.66,
+      "end": 13.04
+    },
+    {
+      "word": "I",
+      "start": 14.1,
+      "end": 14.241
+    },
+    {
+      "word": "find",
+      "start": 14.3,
+      "end": 14.68
+    },
+    {
+      "word": "talking",
+      "start": 14.82,
+      "end": 15.041
+    },
+    {
+      "word": "to",
+      "start": 15.1,
+      "end": 15.221
+    },
+    {
+      "word": "some",
+      "start": 15.281,
+      "end": 15.42
+    },
+    {
+      "word": "people,",
+      "start": 15.521,
+      "end": 15.8
+    },
+    {
+      "word": "especially",
+      "start": 15.84,
+      "end": 16.141
+    },
+    {
+      "word": "if",
+      "start": 16.141,
+      "end": 16.241
+    },
+    {
+      "word": "I",
+      "start": 16.24,
+      "end": 16.281
+    },
+    {
+      "word": "have",
+      "start": 16.301,
+      "end": 16.4
+    },
+    {
+      "word": "to",
+      "start": 16.42,
+      "end": 16.5
+    },
+    {
+      "word": "make",
+      "start": 16.521,
+      "end": 16.68
+    },
+    {
+      "word": "more",
+      "start": 16.721,
+      "end": 16.9
+    },
+    {
+      "word": "small",
+      "start": 16.961,
+      "end": 17.241
+    },
+    {
+      "word": "talk,",
+      "start": 17.26,
+      "end": 17.521
+    },
+    {
+      "word": "taxing.",
+      "start": 17.541,
+      "end": 17.981
+    },
+    {
+      "word": "I",
+      "start": 18.0,
+      "end": 18.08
+    },
+    {
+      "word": "find",
+      "start": 18.1,
+      "end": 18.26
+    },
+    {
+      "word": "these",
+      "start": 18.301,
+      "end": 18.461
+    },
+    {
+      "word": "kinds",
+      "start": 18.5,
+      "end": 18.661
+    },
+    {
+      "word": "of",
+      "start": 18.68,
+      "end": 18.76
+    },
+    {
+      "word": "conversations,",
+      "start": 18.781,
+      "end": 19.42
+    },
+    {
+      "word": "where,",
+      "start": 19.42,
+      "end": 19.621
+    },
+    {
+      "word": "where",
+      "start": 19.641,
+      "end": 19.74
+    },
+    {
+      "word": "you're,",
+      "start": 19.76,
+      "end": 19.861
+    },
+    {
+      "word": "like,",
+      "start": 19.861,
+      "end": 20.04
+    },
+    {
+      "word": "debating",
+      "start": 20.061,
+      "end": 20.461
+    },
+    {
+      "word": "a",
+      "start": 20.521,
+      "end": 20.561
+    },
+    {
+      "word": "topic",
+      "start": 20.641,
+      "end": 21.041
+    },
+    {
+      "word": "and,",
+      "start": 21.081,
+      "end": 21.201
+    },
+    {
+      "word": "like,",
+      "start": 21.201,
+      "end": 21.321
+    },
+    {
+      "word": "exploring",
+      "start": 21.38,
+      "end": 21.94
+    },
+    {
+      "word": "how",
+      "start": 22.84,
+      "end": 22.92
+    },
+    {
+      "word": "to",
+      "start": 22.96,
+      "end": 23.08
+    },
+    {
+      "word": "think",
+      "start": 23.1,
+      "end": 23.24
+    },
+    {
+      "word": "about",
+      "start": 23.281,
+      "end": 23.48
+    },
+    {
+      "word": "certain",
+      "start": 23.521,
+      "end": 23.781
+    },
+    {
+      "word": "things,",
+      "start": 23.84,
+      "end": 24.18
+    },
+    {
+      "word": "invigorating.",
+      "start": 24.26,
+      "end": 25.22
+    },
+    {
+      "word": "But",
+      "start": 25.241,
+      "end": 25.32
+    },
+    {
+      "word": "I",
+      "start": 25.38,
+      "end": 25.4
+    },
+    {
+      "word": "find,",
+      "start": 25.521,
+      "end": 25.82
+    },
+    {
+      "word": "like,",
+      "start": 25.861,
+      "end": 26.781
+    },
+    {
+      "word": "having",
+      "start": 26.881,
+      "end": 27.201
+    },
+    {
+      "word": "to",
+      "start": 27.221,
+      "end": 27.32
+    },
+    {
+      "word": "tell",
+      "start": 27.38,
+      "end": 27.6
+    },
+    {
+      "word": "too",
+      "start": 27.66,
+      "end": 27.781
+    },
+    {
+      "word": "many",
+      "start": 27.861,
+      "end": 28.16
+    },
+    {
+      "word": "stories-",
+      "start": 28.38,
+      "end": 29.0
+    },
+    {
+      "word": "are",
+      "start": 29.1,
+      "end": 29.16
+    },
+    {
+      "word": "like",
+      "start": 29.2,
+      "end": 29.38
+    },
+    {
+      "word": "for",
+      "start": 29.501,
+      "end": 29.6
+    },
+    {
+      "word": "entertainment",
+      "start": 29.641,
+      "end": 30.14
+    },
+    {
+      "word": "purposes",
+      "start": 30.221,
+      "end": 30.84
+    },
+    {
+      "word": "or",
+      "start": 30.9,
+      "end": 31.04
+    },
+    {
+      "word": "doing",
+      "start": 31.06,
+      "end": 31.28
+    },
+    {
+      "word": "small",
+      "start": 31.401,
+      "end": 31.66
+    },
+    {
+      "word": "talk",
+      "start": 31.68,
+      "end": 32.021
+    },
+    {
+      "word": "to",
+      "start": 32.08,
+      "end": 32.2
+    },
+    {
+      "word": "lead",
+      "start": 32.22,
+      "end": 32.38
+    },
+    {
+      "word": "to",
+      "start": 32.38,
+      "end": 32.48
+    },
+    {
+      "word": "something",
+      "start": 32.501,
+      "end": 32.72
+    },
+    {
+      "word": "more",
+      "start": 32.741,
+      "end": 32.84
+    },
+    {
+      "word": "interesting,",
+      "start": 32.88,
+      "end": 33.4
+    },
+    {
+      "word": "exhausting.",
+      "start": 33.521,
+      "end": 34.2
+    },
+    {
+      "word": "Um,",
+      "start": 35.04,
+      "end": 35.4
+    }
+  ],
+  "clip_0065": [
+    {
+      "word": "What?",
+      "start": 2.4,
+      "end": 2.799
+    },
+    {
+      "word": "Really?",
+      "start": 2.999,
+      "end": 5.799
+    },
+    {
+      "word": "Oh!",
+      "start": 10.24,
+      "end": 13.699
+    },
+    {
+      "word": "Oh,",
+      "start": 15.859,
+      "end": 15.979
+    },
+    {
+      "word": "my",
+      "start": 15.979,
+      "end": 16.099
+    },
+    {
+      "word": "God!",
+      "start": 16.139,
+      "end": 22.52
+    },
+    {
+      "word": "Uh-huh,",
+      "start": 27.039,
+      "end": 27.459
+    },
+    {
+      "word": "yep.",
+      "start": 27.479,
+      "end": 43.699
+    }
+  ],
+  "clip_0069": [
+    {
+      "word": "Hmm.",
+      "start": 1.191,
+      "end": 7.809
+    },
+    {
+      "word": "Mm-hmm.",
+      "start": 10.33,
+      "end": 23.23
+    },
+    {
+      "word": "Oh,",
+      "start": 38.309,
+      "end": 38.49
+    },
+    {
+      "word": "makes",
+      "start": 38.63,
+      "end": 38.83
+    },
+    {
+      "word": "sense.",
+      "start": 38.87,
+      "end": 39.29
+    },
+    {
+      "word": "I",
+      "start": 39.33,
+      "end": 39.431
+    },
+    {
+      "word": "think,",
+      "start": 39.451,
+      "end": 39.71
+    },
+    {
+      "word": "uh,",
+      "start": 39.751,
+      "end": 39.951
+    }
+  ],
+  "clip_0072": [
+    {
+      "word": "But,",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "word": "I",
+      "start": 2.96,
+      "end": 3.021
+    },
+    {
+      "word": "mean,",
+      "start": 3.021,
+      "end": 3.24
+    },
+    {
+      "word": "like,",
+      "start": 3.301,
+      "end": 3.521
+    },
+    {
+      "word": "it's,",
+      "start": 3.601,
+      "end": 3.94
+    },
+    {
+      "word": "it",
+      "start": 3.96,
+      "end": 4.081
+    },
+    {
+      "word": "sounds",
+      "start": 4.1,
+      "end": 4.28
+    },
+    {
+      "word": "like",
+      "start": 4.301,
+      "end": 4.381
+    },
+    {
+      "word": "it's",
+      "start": 4.42,
+      "end": 4.561
+    },
+    {
+      "word": "not",
+      "start": 4.6,
+      "end": 4.7
+    },
+    {
+      "word": "just",
+      "start": 4.821,
+      "end": 4.96
+    },
+    {
+      "word": "a",
+      "start": 5.02,
+      "end": 5.1
+    },
+    {
+      "word": "question",
+      "start": 5.141,
+      "end": 5.601
+    },
+    {
+      "word": "of,",
+      "start": 5.78,
+      "end": 6.46
+    },
+    {
+      "word": "um,",
+      "start": 6.54,
+      "end": 6.921
+    },
+    {
+      "word": "increasing",
+      "start": 7.441,
+      "end": 7.84
+    },
+    {
+      "word": "your",
+      "start": 7.881,
+      "end": 8.02
+    },
+    {
+      "word": "filters",
+      "start": 8.061,
+      "end": 8.46
+    },
+    {
+      "word": "or",
+      "start": 8.5,
+      "end": 8.581
+    },
+    {
+      "word": "increasing",
+      "start": 8.601,
+      "end": 8.981
+    },
+    {
+      "word": "your",
+      "start": 9.02,
+      "end": 9.1
+    },
+    {
+      "word": "standards,",
+      "start": 9.18,
+      "end": 10.04
+    },
+    {
+      "word": "like",
+      "start": 10.08,
+      "end": 10.26
+    },
+    {
+      "word": "less",
+      "start": 10.74,
+      "end": 10.94
+    },
+    {
+      "word": "top",
+      "start": 10.981,
+      "end": 11.16
+    },
+    {
+      "word": "of",
+      "start": 11.181,
+      "end": 11.3
+    },
+    {
+      "word": "funnel.",
+      "start": 11.34,
+      "end": 14.0
+    },
+    {
+      "word": "Mm-hmm.",
+      "start": 16.141,
+      "end": 17.86
+    },
+    {
+      "word": "Really?",
+      "start": 22.301,
+      "end": 24.56
+    },
+    {
+      "word": "Oh,",
+      "start": 26.92,
+      "end": 27.24
+    },
+    {
+      "word": "I,",
+      "start": 27.981,
+      "end": 28.12
+    },
+    {
+      "word": "I'm",
+      "start": 28.14,
+      "end": 28.28
+    },
+    {
+      "word": "not",
+      "start": 28.301,
+      "end": 28.4
+    },
+    {
+      "word": "sure",
+      "start": 28.42,
+      "end": 28.54
+    },
+    {
+      "word": "that's",
+      "start": 28.56,
+      "end": 28.761
+    },
+    {
+      "word": "true",
+      "start": 28.78,
+      "end": 28.96
+    },
+    {
+      "word": "of",
+      "start": 29.0,
+      "end": 29.2
+    },
+    {
+      "word": "m-",
+      "start": 29.781,
+      "end": 29.801
+    },
+    {
+      "word": "majority",
+      "start": 29.801,
+      "end": 30.261
+    },
+    {
+      "word": "of",
+      "start": 30.28,
+      "end": 30.36
+    },
+    {
+      "word": "women.",
+      "start": 30.401,
+      "end": 30.781
+    },
+    {
+      "word": "Like,",
+      "start": 30.881,
+      "end": 31.18
+    },
+    {
+      "word": "uh,",
+      "start": 31.2,
+      "end": 31.4
+    },
+    {
+      "word": "maybe",
+      "start": 31.901,
+      "end": 32.12
+    },
+    {
+      "word": "certain",
+      "start": 32.14,
+      "end": 32.36
+    },
+    {
+      "word": "types",
+      "start": 32.381,
+      "end": 32.58
+    },
+    {
+      "word": "of",
+      "start": 32.6,
+      "end": 32.641
+    },
+    {
+      "word": "women,",
+      "start": 32.66,
+      "end": 32.861
+    },
+    {
+      "word": "but",
+      "start": 32.881,
+      "end": 32.96
+    },
+    {
+      "word": "I",
+      "start": 33.0,
+      "end": 33.04
+    },
+    {
+      "word": "always",
+      "start": 33.04,
+      "end": 33.24
+    },
+    {
+      "word": "feel",
+      "start": 33.261,
+      "end": 33.44
+    },
+    {
+      "word": "terrible",
+      "start": 33.52,
+      "end": 33.92
+    },
+    {
+      "word": "when",
+      "start": 33.94,
+      "end": 34.1
+    },
+    {
+      "word": "somebody,",
+      "start": 34.141,
+      "end": 34.501
+    },
+    {
+      "word": "like,",
+      "start": 34.521,
+      "end": 34.68
+    },
+    {
+      "word": "asks",
+      "start": 34.7,
+      "end": 34.941
+    },
+    {
+      "word": "for",
+      "start": 34.94,
+      "end": 35.061
+    },
+    {
+      "word": "my",
+      "start": 35.1,
+      "end": 35.161
+    },
+    {
+      "word": "number",
+      "start": 35.221,
+      "end": 35.5
+    },
+    {
+      "word": "or",
+      "start": 35.521,
+      "end": 35.641
+    },
+    {
+      "word": "asks",
+      "start": 35.68,
+      "end": 35.881
+    },
+    {
+      "word": "me",
+      "start": 35.92,
+      "end": 36.0
+    },
+    {
+      "word": "out,",
+      "start": 36.04,
+      "end": 36.221
+    },
+    {
+      "word": "and",
+      "start": 36.241,
+      "end": 36.321
+    },
+    {
+      "word": "I",
+      "start": 36.341,
+      "end": 36.4
+    },
+    {
+      "word": "have",
+      "start": 36.421,
+      "end": 36.54
+    },
+    {
+      "word": "to",
+      "start": 36.561,
+      "end": 36.66
+    },
+    {
+      "word": "say",
+      "start": 36.721,
+      "end": 36.821
+    },
+    {
+      "word": "no.",
+      "start": 36.881,
+      "end": 37.021
+    },
+    {
+      "word": "I",
+      "start": 37.02,
+      "end": 37.08
+    },
+    {
+      "word": "feel",
+      "start": 37.161,
+      "end": 37.36
+    },
+    {
+      "word": "horrible.",
+      "start": 37.44,
+      "end": 37.881
+    },
+    {
+      "word": "I",
+      "start": 37.901,
+      "end": 37.96
+    },
+    {
+      "word": "feel",
+      "start": 37.981,
+      "end": 38.081
+    },
+    {
+      "word": "like",
+      "start": 38.101,
+      "end": 38.181
+    },
+    {
+      "word": "a",
+      "start": 38.2,
+      "end": 38.241
+    },
+    {
+      "word": "really",
+      "start": 38.28,
+      "end": 38.481
+    },
+    {
+      "word": "bad",
+      "start": 38.501,
+      "end": 38.78
+    },
+    {
+      "word": "person.",
+      "start": 38.84,
+      "end": 40.381
+    }
+  ],
+  "clip_0083": [
+    {
+      "word": "Oh.",
+      "start": 3.389,
+      "end": 3.989
+    },
+    {
+      "word": "Uh-huh.",
+      "start": 6.07,
+      "end": 10.309
+    },
+    {
+      "word": "Wow!",
+      "start": 13.85,
+      "end": 15.87
+    },
+    {
+      "word": "Yeah.",
+      "start": 17.49,
+      "end": 19.65
+    },
+    {
+      "word": "Yeah.",
+      "start": 23.77,
+      "end": 25.65
+    },
+    {
+      "word": "Yeah.",
+      "start": 26.87,
+      "end": 27.23
+    },
+    {
+      "word": "That's",
+      "start": 27.85,
+      "end": 28.011
+    },
+    {
+      "word": "kind",
+      "start": 28.049,
+      "end": 28.191
+    },
+    {
+      "word": "of",
+      "start": 28.21,
+      "end": 28.27
+    },
+    {
+      "word": "sweet,",
+      "start": 28.37,
+      "end": 28.671
+    },
+    {
+      "word": "though.",
+      "start": 28.691,
+      "end": 30.37
+    },
+    {
+      "word": "Yeah.",
+      "start": 37.251,
+      "end": 38.249
+    },
+    {
+      "word": "Yeah,",
+      "start": 38.29,
+      "end": 38.591
+    },
+    {
+      "word": "but",
+      "start": 38.85,
+      "end": 38.93
+    },
+    {
+      "word": "I",
+      "start": 38.989,
+      "end": 39.011
+    },
+    {
+      "word": "bet",
+      "start": 39.07,
+      "end": 39.21
+    },
+    {
+      "word": "she",
+      "start": 39.21,
+      "end": 39.37
+    },
+    {
+      "word": "liked",
+      "start": 39.41,
+      "end": 39.65
+    },
+    {
+      "word": "that.",
+      "start": 39.69,
+      "end": 40.309
+    },
+    {
+      "word": "Wow!",
+      "start": 52.55,
+      "end": 53.149
+    },
+    {
+      "word": "Oh,",
+      "start": 53.269,
+      "end": 54.25
+    },
+    {
+      "word": "mm-hmm.",
+      "start": 54.291,
+      "end": 59.29
+    },
+    {
+      "word": "Whoa!",
+      "start": 64.269,
+      "end": 64.549
+    },
+    {
+      "word": "Okay.",
+      "start": 64.751,
+      "end": 66.13
+    }
+  ],
+  "clip_0091": [
+    {
+      "word": "like,",
+      "start": 0.591,
+      "end": 0.751
+    },
+    {
+      "word": "how,",
+      "start": 0.791,
+      "end": 0.99
+    },
+    {
+      "word": "how",
+      "start": 1.071,
+      "end": 1.21
+    },
+    {
+      "word": "much",
+      "start": 1.23,
+      "end": 1.389
+    },
+    {
+      "word": "overlap",
+      "start": 1.471,
+      "end": 1.79
+    },
+    {
+      "word": "is",
+      "start": 1.85,
+      "end": 2.011
+    },
+    {
+      "word": "there",
+      "start": 2.031,
+      "end": 2.23
+    },
+    {
+      "word": "in",
+      "start": 2.27,
+      "end": 2.371
+    },
+    {
+      "word": "how",
+      "start": 2.43,
+      "end": 2.59
+    },
+    {
+      "word": "people",
+      "start": 2.63,
+      "end": 2.871
+    },
+    {
+      "word": "express",
+      "start": 2.93,
+      "end": 3.291
+    },
+    {
+      "word": "their",
+      "start": 3.331,
+      "end": 3.43
+    },
+    {
+      "word": "emotions",
+      "start": 3.511,
+      "end": 4.049
+    },
+    {
+      "word": "versus",
+      "start": 4.111,
+      "end": 4.51
+    },
+    {
+      "word": "how",
+      "start": 4.591,
+      "end": 4.73
+    },
+    {
+      "word": "we",
+      "start": 4.829,
+      "end": 5.109
+    },
+    {
+      "word": "understand",
+      "start": 5.15,
+      "end": 5.65
+    },
+    {
+      "word": "different",
+      "start": 5.73,
+      "end": 5.969
+    },
+    {
+      "word": "emotions?",
+      "start": 6.05,
+      "end": 6.69
+    },
+    {
+      "word": "And",
+      "start": 6.71,
+      "end": 6.77
+    },
+    {
+      "word": "we",
+      "start": 6.79,
+      "end": 6.889
+    },
+    {
+      "word": "definitely,",
+      "start": 6.91,
+      "end": 7.331
+    },
+    {
+      "word": "like,",
+      "start": 7.389,
+      "end": 7.951
+    },
+    {
+      "word": "uh,",
+      "start": 8.01,
+      "end": 8.249
+    },
+    {
+      "word": "we",
+      "start": 9.59,
+      "end": 9.65
+    },
+    {
+      "word": "definitely",
+      "start": 9.671,
+      "end": 9.93
+    },
+    {
+      "word": "misunderstand",
+      "start": 9.97,
+      "end": 10.63
+    },
+    {
+      "word": "each",
+      "start": 10.65,
+      "end": 10.791
+    },
+    {
+      "word": "other",
+      "start": 10.829,
+      "end": 10.99
+    },
+    {
+      "word": "all",
+      "start": 11.05,
+      "end": 11.15
+    },
+    {
+      "word": "the",
+      "start": 11.171,
+      "end": 11.269
+    },
+    {
+      "word": "time.",
+      "start": 11.309,
+      "end": 12.41
+    },
+    {
+      "word": "Um,",
+      "start": 12.531,
+      "end": 12.749
+    },
+    {
+      "word": "I",
+      "start": 13.611,
+      "end": 13.71
+    },
+    {
+      "word": "wonder",
+      "start": 13.731,
+      "end": 13.951
+    },
+    {
+      "word": "if",
+      "start": 13.99,
+      "end": 14.111
+    },
+    {
+      "word": "even",
+      "start": 14.169,
+      "end": 14.809
+    },
+    {
+      "word": "adding",
+      "start": 14.93,
+      "end": 15.371
+    },
+    {
+      "word": "smiles",
+      "start": 15.49,
+      "end": 16.031
+    },
+    {
+      "word": "to",
+      "start": 16.09,
+      "end": 16.15
+    },
+    {
+      "word": "certain",
+      "start": 16.21,
+      "end": 16.41
+    },
+    {
+      "word": "emotions",
+      "start": 16.47,
+      "end": 16.951
+    },
+    {
+      "word": "is,",
+      "start": 17.01,
+      "end": 17.13
+    },
+    {
+      "word": "like,",
+      "start": 17.169,
+      "end": 17.41
+    },
+    {
+      "word": "a",
+      "start": 17.531,
+      "end": 17.669
+    },
+    {
+      "word": "kinda",
+      "start": 18.249,
+      "end": 18.41
+    },
+    {
+      "word": "coping",
+      "start": 18.51,
+      "end": 18.85
+    },
+    {
+      "word": "mechanism",
+      "start": 18.889,
+      "end": 19.43
+    },
+    {
+      "word": "or",
+      "start": 19.49,
+      "end": 19.571
+    },
+    {
+      "word": "a",
+      "start": 19.59,
+      "end": 19.65
+    },
+    {
+      "word": "masking",
+      "start": 19.69,
+      "end": 20.169
+    },
+    {
+      "word": "thing?",
+      "start": 20.23,
+      "end": 22.59
+    },
+    {
+      "word": "yeah,",
+      "start": 22.91,
+      "end": 23.29
+    },
+    {
+      "word": "or",
+      "start": 23.35,
+      "end": 23.49
+    },
+    {
+      "word": "it's",
+      "start": 23.529,
+      "end": 23.73
+    },
+    {
+      "word": "just,",
+      "start": 23.77,
+      "end": 24.13
+    },
+    {
+      "word": "like,",
+      "start": 25.49,
+      "end": 25.71
+    },
+    {
+      "word": "always",
+      "start": 25.77,
+      "end": 26.049
+    },
+    {
+      "word": "wanting",
+      "start": 26.13,
+      "end": 26.689
+    },
+    {
+      "word": "to",
+      "start": 26.73,
+      "end": 27.07
+    },
+    {
+      "word": "bring",
+      "start": 27.091,
+      "end": 27.529
+    },
+    {
+      "word": "the,",
+      "start": 27.591,
+      "end": 28.13
+    },
+    {
+      "word": "bring",
+      "start": 30.111,
+      "end": 30.45
+    },
+    {
+      "word": "the",
+      "start": 30.529,
+      "end": 30.71
+    },
+    {
+      "word": "emotional",
+      "start": 30.791,
+      "end": 31.27
+    },
+    {
+      "word": "states",
+      "start": 31.389,
+      "end": 31.809
+    },
+    {
+      "word": "of",
+      "start": 31.85,
+      "end": 31.969
+    },
+    {
+      "word": "the",
+      "start": 32.071,
+      "end": 32.21
+    },
+    {
+      "word": "situation",
+      "start": 32.329,
+      "end": 32.951
+    },
+    {
+      "word": "back",
+      "start": 33.09,
+      "end": 33.331
+    },
+    {
+      "word": "to",
+      "start": 33.371,
+      "end": 33.49
+    },
+    {
+      "word": "something",
+      "start": 33.531,
+      "end": 33.829
+    },
+    {
+      "word": "positive.",
+      "start": 33.93,
+      "end": 34.41
+    },
+    {
+      "word": "But",
+      "start": 34.41,
+      "end": 34.49
+    },
+    {
+      "word": "then,",
+      "start": 34.51,
+      "end": 34.69
+    },
+    {
+      "word": "like,",
+      "start": 34.71,
+      "end": 35.05
+    },
+    {
+      "word": "but",
+      "start": 36.13,
+      "end": 36.21
+    },
+    {
+      "word": "then,",
+      "start": 36.21,
+      "end": 36.331
+    },
+    {
+      "word": "like,",
+      "start": 36.331,
+      "end": 36.45
+    },
+    {
+      "word": "I'm",
+      "start": 36.469,
+      "end": 36.55
+    },
+    {
+      "word": "not",
+      "start": 36.591,
+      "end": 36.69
+    },
+    {
+      "word": "always",
+      "start": 36.71,
+      "end": 36.91
+    },
+    {
+      "word": "positive.",
+      "start": 37.01,
+      "end": 37.51
+    },
+    {
+      "word": "Like,",
+      "start": 37.511,
+      "end": 37.63
+    },
+    {
+      "word": "sometimes",
+      "start": 37.671,
+      "end": 38.031
+    },
+    {
+      "word": "I'm",
+      "start": 38.071,
+      "end": 38.171
+    },
+    {
+      "word": "confrontational",
+      "start": 38.23,
+      "end": 39.09
+    },
+    {
+      "word": "without",
+      "start": 40.291,
+      "end": 40.51
+    },
+    {
+      "word": "negativity.",
+      "start": 40.57,
+      "end": 41.71
+    },
+    {
+      "word": "Um,",
+      "start": 41.791,
+      "end": 42.111
+    },
+    {
+      "word": "sometimes",
+      "start": 42.57,
+      "end": 42.93
+    },
+    {
+      "word": "I'm",
+      "start": 42.99,
+      "end": 43.07
+    },
+    {
+      "word": "just",
+      "start": 43.169,
+      "end": 43.269
+    },
+    {
+      "word": "direct.",
+      "start": 43.329,
+      "end": 43.93
+    },
+    {
+      "word": "Yeah,",
+      "start": 47.769,
+      "end": 47.99
+    },
+    {
+      "word": "I",
+      "start": 48.73,
+      "end": 48.769
+    },
+    {
+      "word": "don't",
+      "start": 48.769,
+      "end": 48.871
+    },
+    {
+      "word": "know.",
+      "start": 48.891,
+      "end": 49.15
+    },
+    {
+      "word": "Yeah,",
+      "start": 53.809,
+      "end": 54.389
+    },
+    {
+      "word": "kinda,",
+      "start": 54.529,
+      "end": 54.99
+    },
+    {
+      "word": "kind",
+      "start": 56.249,
+      "end": 56.389
+    },
+    {
+      "word": "of",
+      "start": 56.41,
+      "end": 56.45
+    },
+    {
+      "word": "fun,",
+      "start": 56.549,
+      "end": 56.99
+    },
+    {
+      "word": "I",
+      "start": 57.011,
+      "end": 57.111
+    },
+    {
+      "word": "guess.",
+      "start": 57.13,
+      "end": 57.49
+    },
+    {
+      "word": "Kind",
+      "start": 57.511,
+      "end": 57.63
+    },
+    {
+      "word": "of",
+      "start": 57.65,
+      "end": 57.71
+    },
+    {
+      "word": "interesting.",
+      "start": 57.749,
+      "end": 58.549
+    },
+    {
+      "word": "Kind",
+      "start": 58.57,
+      "end": 58.71
+    },
+    {
+      "word": "of",
+      "start": 58.71,
+      "end": 58.77
+    },
+    {
+      "word": "tired.",
+      "start": 58.809,
+      "end": 59.41
+    },
+    {
+      "word": "I'm",
+      "start": 59.45,
+      "end": 59.549
+    },
+    {
+      "word": "annoyed",
+      "start": 59.57,
+      "end": 59.95
+    },
+    {
+      "word": "that",
+      "start": 59.99,
+      "end": 60.21
+    },
+    {
+      "word": "I",
+      "start": 60.35,
+      "end": 60.57
+    }
+  ],
+  "clip_0098": [
+    {
+      "word": "I",
+      "start": 0.381,
+      "end": 0.401
+    },
+    {
+      "word": "know",
+      "start": 0.461,
+      "end": 0.561
+    },
+    {
+      "word": "I",
+      "start": 0.6,
+      "end": 0.641
+    },
+    {
+      "word": "shouldn't",
+      "start": 0.701,
+      "end": 0.901
+    },
+    {
+      "word": "say",
+      "start": 0.961,
+      "end": 1.06
+    },
+    {
+      "word": "I",
+      "start": 1.1,
+      "end": 1.16
+    },
+    {
+      "word": "told",
+      "start": 1.22,
+      "end": 1.44
+    },
+    {
+      "word": "you",
+      "start": 1.48,
+      "end": 1.6
+    },
+    {
+      "word": "so,",
+      "start": 1.621,
+      "end": 1.82
+    },
+    {
+      "word": "but",
+      "start": 1.859,
+      "end": 1.981
+    },
+    {
+      "word": "I",
+      "start": 2.02,
+      "end": 2.1
+    },
+    {
+      "word": "did",
+      "start": 2.24,
+      "end": 2.68
+    },
+    {
+      "word": "tell",
+      "start": 2.74,
+      "end": 2.981
+    },
+    {
+      "word": "you",
+      "start": 3.061,
+      "end": 3.24
+    },
+    {
+      "word": "so.",
+      "start": 3.3,
+      "end": 3.68
+    },
+    {
+      "word": "I",
+      "start": 5.101,
+      "end": 5.16
+    },
+    {
+      "word": "know,",
+      "start": 5.24,
+      "end": 5.48
+    },
+    {
+      "word": "I",
+      "start": 5.54,
+      "end": 5.6
+    },
+    {
+      "word": "know.",
+      "start": 5.621,
+      "end": 5.86
+    },
+    {
+      "word": "Yeah,",
+      "start": 6.04,
+      "end": 6.3
+    },
+    {
+      "word": "yeah,",
+      "start": 6.441,
+      "end": 6.58
+    },
+    {
+      "word": "I'm",
+      "start": 6.76,
+      "end": 6.919
+    },
+    {
+      "word": "sorry.",
+      "start": 6.941,
+      "end": 7.32
+    },
+    {
+      "word": "That's,",
+      "start": 7.36,
+      "end": 7.66
+    },
+    {
+      "word": "that's",
+      "start": 7.68,
+      "end": 7.88
+    },
+    {
+      "word": "mean",
+      "start": 7.9,
+      "end": 8.08
+    },
+    {
+      "word": "of",
+      "start": 8.08,
+      "end": 8.22
+    },
+    {
+      "word": "me,",
+      "start": 8.26,
+      "end": 8.46
+    },
+    {
+      "word": "but",
+      "start": 8.48,
+      "end": 8.62
+    },
+    {
+      "word": "it's",
+      "start": 8.779,
+      "end": 8.94
+    },
+    {
+      "word": "ki-",
+      "start": 8.98,
+      "end": 9.16
+    },
+    {
+      "word": "it",
+      "start": 9.181,
+      "end": 9.22
+    },
+    {
+      "word": "is,",
+      "start": 9.22,
+      "end": 9.8
+    },
+    {
+      "word": "it's",
+      "start": 9.8,
+      "end": 9.94
+    },
+    {
+      "word": "pretty",
+      "start": 9.94,
+      "end": 10.1
+    },
+    {
+      "word": "funny.",
+      "start": 10.181,
+      "end": 11.52
+    },
+    {
+      "word": "Okay,",
+      "start": 12.8,
+      "end": 13.561
+    },
+    {
+      "word": "number",
+      "start": 13.621,
+      "end": 13.86
+    },
+    {
+      "word": "four.",
+      "start": 13.961,
+      "end": 15.081
+    },
+    {
+      "word": "Oh,",
+      "start": 17.081,
+      "end": 17.32
+    },
+    {
+      "word": "are",
+      "start": 17.34,
+      "end": 17.44
+    },
+    {
+      "word": "you",
+      "start": 17.46,
+      "end": 17.52
+    },
+    {
+      "word": "serious?",
+      "start": 17.621,
+      "end": 18.22
+    },
+    {
+      "word": "We",
+      "start": 18.461,
+      "end": 18.541
+    },
+    {
+      "word": "got",
+      "start": 18.559,
+      "end": 18.661
+    },
+    {
+      "word": "the",
+      "start": 18.68,
+      "end": 18.74
+    },
+    {
+      "word": "apartment?",
+      "start": 18.76,
+      "end": 19.34
+    },
+    {
+      "word": "We",
+      "start": 19.701,
+      "end": 19.8
+    },
+    {
+      "word": "actually",
+      "start": 19.841,
+      "end": 20.081
+    },
+    {
+      "word": "did",
+      "start": 20.121,
+      "end": 20.28
+    },
+    {
+      "word": "it?",
+      "start": 20.36,
+      "end": 20.559
+    },
+    {
+      "word": "Oh,",
+      "start": 21.041,
+      "end": 21.82
+    },
+    {
+      "word": "oh,",
+      "start": 21.859,
+      "end": 21.981
+    },
+    {
+      "word": "that's",
+      "start": 22.001,
+      "end": 22.32
+    },
+    {
+      "word": "such",
+      "start": 22.359,
+      "end": 22.6
+    },
+    {
+      "word": "a",
+      "start": 22.641,
+      "end": 22.681
+    },
+    {
+      "word": "relief.",
+      "start": 22.74,
+      "end": 23.16
+    },
+    {
+      "word": "Honestly,",
+      "start": 23.161,
+      "end": 23.52
+    },
+    {
+      "word": "thank",
+      "start": 23.541,
+      "end": 23.721
+    },
+    {
+      "word": "God.",
+      "start": 23.76,
+      "end": 23.981
+    },
+    {
+      "word": "Like,",
+      "start": 23.981,
+      "end": 24.139
+    },
+    {
+      "word": "it",
+      "start": 24.161,
+      "end": 24.221
+    },
+    {
+      "word": "was-",
+      "start": 24.26,
+      "end": 24.52
+    },
+    {
+      "word": "the,",
+      "start": 24.94,
+      "end": 25.08
+    },
+    {
+      "word": "the",
+      "start": 25.16,
+      "end": 25.28
+    },
+    {
+      "word": "whole",
+      "start": 25.34,
+      "end": 25.501
+    },
+    {
+      "word": "process",
+      "start": 25.6,
+      "end": 26.02
+    },
+    {
+      "word": "was",
+      "start": 26.06,
+      "end": 26.221
+    },
+    {
+      "word": "so",
+      "start": 26.28,
+      "end": 26.421
+    },
+    {
+      "word": "stressful,",
+      "start": 26.541,
+      "end": 27.04
+    },
+    {
+      "word": "and",
+      "start": 27.061,
+      "end": 27.18
+    },
+    {
+      "word": "I'm",
+      "start": 27.541,
+      "end": 27.66
+    },
+    {
+      "word": "just...",
+      "start": 27.701,
+      "end": 28.5
+    },
+    {
+      "word": "Oh,",
+      "start": 28.52,
+      "end": 28.94
+    },
+    {
+      "word": "oh,",
+      "start": 28.94,
+      "end": 28.94
+    },
+    {
+      "word": "I'm",
+      "start": 28.961,
+      "end": 29.081
+    },
+    {
+      "word": "so",
+      "start": 29.139,
+      "end": 29.26
+    },
+    {
+      "word": "happy",
+      "start": 29.3,
+      "end": 29.481
+    },
+    {
+      "word": "it's",
+      "start": 29.541,
+      "end": 29.641
+    },
+    {
+      "word": "finally",
+      "start": 29.701,
+      "end": 29.961
+    },
+    {
+      "word": "over.",
+      "start": 29.981,
+      "end": 30.18
+    },
+    {
+      "word": "Honestly,",
+      "start": 30.221,
+      "end": 30.54
+    },
+    {
+      "word": "I",
+      "start": 30.541,
+      "end": 30.581
+    },
+    {
+      "word": "was",
+      "start": 30.6,
+      "end": 30.721
+    },
+    {
+      "word": "mentally",
+      "start": 30.76,
+      "end": 31.041
+    },
+    {
+      "word": "prepared",
+      "start": 31.121,
+      "end": 31.6
+    },
+    {
+      "word": "to,",
+      "start": 31.66,
+      "end": 31.8
+    },
+    {
+      "word": "like,",
+      "start": 31.8,
+      "end": 32.041
+    },
+    {
+      "word": "live",
+      "start": 32.961,
+      "end": 33.081
+    },
+    {
+      "word": "in",
+      "start": 33.1,
+      "end": 33.16
+    },
+    {
+      "word": "a",
+      "start": 33.201,
+      "end": 33.24
+    },
+    {
+      "word": "crazy",
+      "start": 33.32,
+      "end": 33.66
+    },
+    {
+      "word": "place",
+      "start": 33.701,
+      "end": 34.121
+    },
+    {
+      "word": "that",
+      "start": 34.18,
+      "end": 34.26
+    },
+    {
+      "word": "I",
+      "start": 34.3,
+      "end": 34.34
+    },
+    {
+      "word": "was,",
+      "start": 34.359,
+      "end": 34.481
+    },
+    {
+      "word": "like,",
+      "start": 34.481,
+      "end": 34.6
+    },
+    {
+      "word": "really-",
+      "start": 34.621,
+      "end": 34.68
+    },
+    {
+      "word": "really",
+      "start": 34.74,
+      "end": 34.86
+    },
+    {
+      "word": "unhappy",
+      "start": 34.881,
+      "end": 35.3
+    },
+    {
+      "word": "with,",
+      "start": 35.381,
+      "end": 35.7
+    },
+    {
+      "word": "and",
+      "start": 35.701,
+      "end": 35.88
+    },
+    {
+      "word": "this",
+      "start": 36.321,
+      "end": 36.46
+    },
+    {
+      "word": "is,",
+      "start": 36.5,
+      "end": 36.86
+    },
+    {
+      "word": "yeah,",
+      "start": 36.881,
+      "end": 37.12
+    },
+    {
+      "word": "this",
+      "start": 37.141,
+      "end": 37.279
+    },
+    {
+      "word": "is,",
+      "start": 37.34,
+      "end": 37.54
+    },
+    {
+      "word": "this",
+      "start": 37.8,
+      "end": 37.9
+    },
+    {
+      "word": "is",
+      "start": 37.96,
+      "end": 38.0
+    },
+    {
+      "word": "such",
+      "start": 38.059,
+      "end": 38.22
+    },
+    {
+      "word": "a",
+      "start": 38.279,
+      "end": 38.32
+    },
+    {
+      "word": "relief.",
+      "start": 38.36,
+      "end": 40.52
+    },
+    {
+      "word": "Okay,",
+      "start": 42.3,
+      "end": 42.559
+    },
+    {
+      "word": "number",
+      "start": 42.62,
+      "end": 42.82
+    },
+    {
+      "word": "five.",
+      "start": 42.921,
+      "end": 56.78
+    }
+  ],
+  "clip_0108": [
+    {
+      "word": "Mm-hmm.",
+      "start": 8.16,
+      "end": 12.1
+    },
+    {
+      "word": "Mm,",
+      "start": 14.44,
+      "end": 15.16
+    },
+    {
+      "word": "I",
+      "start": 15.52,
+      "end": 15.58
+    },
+    {
+      "word": "mean,",
+      "start": 15.6,
+      "end": 15.72
+    },
+    {
+      "word": "eight",
+      "start": 15.76,
+      "end": 15.92
+    },
+    {
+      "word": "years",
+      "start": 16.0,
+      "end": 16.18
+    },
+    {
+      "word": "is",
+      "start": 16.201,
+      "end": 16.32
+    },
+    {
+      "word": "a",
+      "start": 16.361,
+      "end": 16.42
+    },
+    {
+      "word": "very",
+      "start": 16.461,
+      "end": 16.68
+    },
+    {
+      "word": "long",
+      "start": 16.701,
+      "end": 16.861
+    },
+    {
+      "word": "time.",
+      "start": 16.92,
+      "end": 21.84
+    }
+  ],
+  "clip_0114": [
+    {
+      "word": "Oh,",
+      "start": 0.251,
+      "end": 0.451
+    },
+    {
+      "word": "okay,",
+      "start": 0.65,
+      "end": 0.951
+    },
+    {
+      "word": "good.",
+      "start": 0.991,
+      "end": 1.211
+    },
+    {
+      "word": "I",
+      "start": 1.23,
+      "end": 1.309
+    },
+    {
+      "word": "actually",
+      "start": 1.35,
+      "end": 1.57
+    },
+    {
+      "word": "noticed",
+      "start": 1.63,
+      "end": 2.05
+    },
+    {
+      "word": "that,",
+      "start": 2.07,
+      "end": 2.27
+    },
+    {
+      "word": "um,",
+      "start": 2.309,
+      "end": 2.511
+    },
+    {
+      "word": "I",
+      "start": 3.11,
+      "end": 3.15
+    },
+    {
+      "word": "think",
+      "start": 3.249,
+      "end": 3.451
+    },
+    {
+      "word": "in",
+      "start": 3.491,
+      "end": 3.61
+    },
+    {
+      "word": "Europe,",
+      "start": 3.71,
+      "end": 4.15
+    },
+    {
+      "word": "because",
+      "start": 4.169,
+      "end": 4.57
+    },
+    {
+      "word": "there's,",
+      "start": 4.61,
+      "end": 5.031
+    },
+    {
+      "word": "there's",
+      "start": 6.15,
+      "end": 6.251
+    },
+    {
+      "word": "so",
+      "start": 6.291,
+      "end": 6.37
+    },
+    {
+      "word": "much",
+      "start": 6.41,
+      "end": 6.55
+    },
+    {
+      "word": "travel",
+      "start": 6.65,
+      "end": 6.95
+    },
+    {
+      "word": "of",
+      "start": 6.991,
+      "end": 7.11
+    },
+    {
+      "word": "peoples",
+      "start": 7.169,
+      "end": 7.61
+    },
+    {
+      "word": "from",
+      "start": 7.89,
+      "end": 8.031
+    },
+    {
+      "word": "different",
+      "start": 8.05,
+      "end": 8.311
+    },
+    {
+      "word": "cultures",
+      "start": 8.331,
+      "end": 8.731
+    },
+    {
+      "word": "and",
+      "start": 8.751,
+      "end": 8.85
+    },
+    {
+      "word": "different",
+      "start": 8.871,
+      "end": 9.13
+    },
+    {
+      "word": "places,",
+      "start": 9.169,
+      "end": 10.11
+    },
+    {
+      "word": "uh,",
+      "start": 10.211,
+      "end": 10.451
+    },
+    {
+      "word": "diseases",
+      "start": 10.471,
+      "end": 10.971
+    },
+    {
+      "word": "that",
+      "start": 11.01,
+      "end": 11.11
+    },
+    {
+      "word": "you're",
+      "start": 11.13,
+      "end": 11.249
+    },
+    {
+      "word": "not",
+      "start": 11.27,
+      "end": 11.391
+    },
+    {
+      "word": "resilient",
+      "start": 11.41,
+      "end": 12.031
+    },
+    {
+      "word": "to",
+      "start": 12.07,
+      "end": 12.309
+    },
+    {
+      "word": "spread",
+      "start": 12.55,
+      "end": 12.89
+    },
+    {
+      "word": "more",
+      "start": 12.93,
+      "end": 13.11
+    },
+    {
+      "word": "quickly",
+      "start": 13.15,
+      "end": 13.451
+    },
+    {
+      "word": "in",
+      "start": 13.451,
+      "end": 13.55
+    },
+    {
+      "word": "Europe.",
+      "start": 13.59,
+      "end": 13.89
+    },
+    {
+      "word": "So",
+      "start": 13.891,
+      "end": 13.971
+    },
+    {
+      "word": "I",
+      "start": 14.031,
+      "end": 14.05
+    },
+    {
+      "word": "would",
+      "start": 14.09,
+      "end": 14.231
+    },
+    {
+      "word": "just",
+      "start": 14.27,
+      "end": 14.43
+    },
+    {
+      "word": "get",
+      "start": 14.451,
+      "end": 14.63
+    },
+    {
+      "word": "all",
+      "start": 14.669,
+      "end": 14.77
+    },
+    {
+      "word": "sorts",
+      "start": 14.83,
+      "end": 14.971
+    },
+    {
+      "word": "of",
+      "start": 14.991,
+      "end": 15.169
+    },
+    {
+      "word": "random",
+      "start": 15.211,
+      "end": 15.711
+    },
+    {
+      "word": "flus.",
+      "start": 15.749,
+      "end": 16.031
+    },
+    {
+      "word": "Like,",
+      "start": 16.031,
+      "end": 16.13
+    },
+    {
+      "word": "every",
+      "start": 16.169,
+      "end": 16.35
+    },
+    {
+      "word": "winter",
+      "start": 16.43,
+      "end": 16.71
+    },
+    {
+      "word": "I'd",
+      "start": 16.749,
+      "end": 16.85
+    },
+    {
+      "word": "get",
+      "start": 16.89,
+      "end": 17.09
+    },
+    {
+      "word": "sick.",
+      "start": 17.15,
+      "end": 17.969
+    },
+    {
+      "word": "Um,",
+      "start": 18.01,
+      "end": 18.211
+    },
+    {
+      "word": "I-",
+      "start": 18.391,
+      "end": 18.45
+    },
+    {
+      "word": "like",
+      "start": 18.471,
+      "end": 18.55
+    },
+    {
+      "word": "I",
+      "start": 18.61,
+      "end": 18.61
+    },
+    {
+      "word": "said,",
+      "start": 18.669,
+      "end": 18.77
+    },
+    {
+      "word": "I",
+      "start": 18.791,
+      "end": 18.831
+    },
+    {
+      "word": "got",
+      "start": 18.85,
+      "end": 18.969
+    },
+    {
+      "word": "COVID,",
+      "start": 19.01,
+      "end": 19.27
+    },
+    {
+      "word": "like,",
+      "start": 19.27,
+      "end": 19.41
+    },
+    {
+      "word": "three",
+      "start": 19.43,
+      "end": 19.531
+    },
+    {
+      "word": "or",
+      "start": 19.55,
+      "end": 19.65
+    },
+    {
+      "word": "four",
+      "start": 19.669,
+      "end": 19.809
+    },
+    {
+      "word": "times.",
+      "start": 19.85,
+      "end": 20.13
+    },
+    {
+      "word": "Like,",
+      "start": 20.151,
+      "end": 20.231
+    },
+    {
+      "word": "I",
+      "start": 20.27,
+      "end": 20.311
+    },
+    {
+      "word": "would",
+      "start": 20.311,
+      "end": 20.41
+    },
+    {
+      "word": "just",
+      "start": 20.451,
+      "end": 20.59
+    },
+    {
+      "word": "go",
+      "start": 20.61,
+      "end": 20.73
+    },
+    {
+      "word": "out",
+      "start": 20.77,
+      "end": 20.871
+    },
+    {
+      "word": "in",
+      "start": 20.91,
+      "end": 21.031
+    },
+    {
+      "word": "public-",
+      "start": 21.07,
+      "end": 21.51
+    },
+    {
+      "word": "and",
+      "start": 21.83,
+      "end": 21.891
+    },
+    {
+      "word": "then",
+      "start": 21.931,
+      "end": 21.969
+    },
+    {
+      "word": "a",
+      "start": 21.99,
+      "end": 22.05
+    },
+    {
+      "word": "week",
+      "start": 22.071,
+      "end": 22.23
+    },
+    {
+      "word": "later",
+      "start": 22.27,
+      "end": 22.451
+    },
+    {
+      "word": "be",
+      "start": 22.469,
+      "end": 22.651
+    },
+    {
+      "word": "sick,",
+      "start": 22.669,
+      "end": 22.91
+    },
+    {
+      "word": "and",
+      "start": 22.91,
+      "end": 22.99
+    },
+    {
+      "word": "it's",
+      "start": 22.99,
+      "end": 23.109
+    },
+    {
+      "word": "like,",
+      "start": 23.13,
+      "end": 23.29
+    },
+    {
+      "word": "\"Ah,",
+      "start": 23.309,
+      "end": 23.73
+    },
+    {
+      "word": "come",
+      "start": 23.751,
+      "end": 23.889
+    },
+    {
+      "word": "on!\"",
+      "start": 23.971,
+      "end": 24.371
+    },
+    {
+      "word": "Um,",
+      "start": 24.77,
+      "end": 24.889
+    },
+    {
+      "word": "and",
+      "start": 24.91,
+      "end": 24.99
+    },
+    {
+      "word": "then",
+      "start": 25.011,
+      "end": 25.109
+    },
+    {
+      "word": "I",
+      "start": 25.15,
+      "end": 25.21
+    },
+    {
+      "word": "noticed",
+      "start": 25.23,
+      "end": 25.43
+    },
+    {
+      "word": "in",
+      "start": 25.43,
+      "end": 25.51
+    },
+    {
+      "word": "America,",
+      "start": 25.59,
+      "end": 26.73
+    },
+    {
+      "word": "I've",
+      "start": 26.79,
+      "end": 26.971
+    },
+    {
+      "word": "not",
+      "start": 27.011,
+      "end": 27.169
+    },
+    {
+      "word": "had",
+      "start": 27.23,
+      "end": 27.43
+    },
+    {
+      "word": "that",
+      "start": 27.471,
+      "end": 27.65
+    },
+    {
+      "word": "at",
+      "start": 28.109,
+      "end": 28.23
+    },
+    {
+      "word": "all.",
+      "start": 28.27,
+      "end": 28.59
+    },
+    {
+      "word": "So",
+      "start": 29.331,
+      "end": 29.588
+    },
+    {
+      "word": "either",
+      "start": 29.91,
+      "end": 30.09
+    },
+    {
+      "word": "it's",
+      "start": 30.13,
+      "end": 30.23
+    },
+    {
+      "word": "just",
+      "start": 30.251,
+      "end": 30.349
+    },
+    {
+      "word": "like",
+      "start": 30.371,
+      "end": 30.45
+    },
+    {
+      "word": "a",
+      "start": 30.469,
+      "end": 30.55
+    },
+    {
+      "word": "more",
+      "start": 30.569,
+      "end": 30.73
+    },
+    {
+      "word": "homogeneous",
+      "start": 30.79,
+      "end": 31.569
+    },
+    {
+      "word": "culture",
+      "start": 32.031,
+      "end": 32.51
+    },
+    {
+      "word": "with,",
+      "start": 32.59,
+      "end": 32.751
+    },
+    {
+      "word": "like,",
+      "start": 32.77,
+      "end": 32.931
+    },
+    {
+      "word": "more",
+      "start": 32.991,
+      "end": 33.11
+    },
+    {
+      "word": "homogeneous",
+      "start": 33.15,
+      "end": 33.749
+    },
+    {
+      "word": "bacteria,",
+      "start": 33.849,
+      "end": 34.509
+    },
+    {
+      "word": "or",
+      "start": 35.43,
+      "end": 35.491
+    },
+    {
+      "word": "I'm",
+      "start": 35.55,
+      "end": 35.711
+    },
+    {
+      "word": "somehow",
+      "start": 35.79,
+      "end": 36.249
+    },
+    {
+      "word": "healthier.",
+      "start": 36.37,
+      "end": 36.87
+    },
+    {
+      "word": "Like,",
+      "start": 36.89,
+      "end": 36.991
+    },
+    {
+      "word": "maybe",
+      "start": 37.009,
+      "end": 37.17
+    },
+    {
+      "word": "all",
+      "start": 37.17,
+      "end": 37.251
+    },
+    {
+      "word": "the",
+      "start": 37.27,
+      "end": 37.331
+    },
+    {
+      "word": "preservatives",
+      "start": 37.37,
+      "end": 37.89
+    },
+    {
+      "word": "in",
+      "start": 37.891,
+      "end": 37.971
+    },
+    {
+      "word": "the",
+      "start": 37.991,
+      "end": 38.051
+    },
+    {
+      "word": "food",
+      "start": 38.151,
+      "end": 38.39
+    },
+    {
+      "word": "are,",
+      "start": 38.43,
+      "end": 38.551
+    },
+    {
+      "word": "like,",
+      "start": 38.57,
+      "end": 38.891
+    },
+    {
+      "word": "you",
+      "start": 39.29,
+      "end": 39.371
+    },
+    {
+      "word": "know,",
+      "start": 39.371,
+      "end": 39.59
+    }
+  ],
+  "clip_0121": [
+    {
+      "word": "Well,",
+      "start": 0.6,
+      "end": 0.761
+    },
+    {
+      "word": "it,",
+      "start": 0.8,
+      "end": 0.939
+    },
+    {
+      "word": "for",
+      "start": 0.981,
+      "end": 1.12
+    },
+    {
+      "word": "me,",
+      "start": 1.18,
+      "end": 1.439
+    },
+    {
+      "word": "well,",
+      "start": 1.461,
+      "end": 1.62
+    },
+    {
+      "word": "because",
+      "start": 1.639,
+      "end": 1.841
+    },
+    {
+      "word": "I",
+      "start": 1.921,
+      "end": 1.941
+    },
+    {
+      "word": "can",
+      "start": 2.02,
+      "end": 2.181
+    },
+    {
+      "word": "see",
+      "start": 2.219,
+      "end": 2.361
+    },
+    {
+      "word": "it",
+      "start": 2.4,
+      "end": 2.501
+    },
+    {
+      "word": "in",
+      "start": 2.52,
+      "end": 2.659
+    },
+    {
+      "word": "my",
+      "start": 2.7,
+      "end": 2.861
+    },
+    {
+      "word": "own",
+      "start": 2.9,
+      "end": 3.1
+    },
+    {
+      "word": "view",
+      "start": 3.219,
+      "end": 3.38
+    },
+    {
+      "word": "of",
+      "start": 3.4,
+      "end": 3.52
+    },
+    {
+      "word": "it,",
+      "start": 3.58,
+      "end": 3.98
+    },
+    {
+      "word": "so",
+      "start": 4.04,
+      "end": 4.159
+    },
+    {
+      "word": "right",
+      "start": 4.181,
+      "end": 4.3
+    },
+    {
+      "word": "now",
+      "start": 4.4,
+      "end": 4.501
+    },
+    {
+      "word": "I'm",
+      "start": 4.54,
+      "end": 4.681
+    },
+    {
+      "word": "not",
+      "start": 4.701,
+      "end": 4.8
+    },
+    {
+      "word": "stuttering.",
+      "start": 4.88,
+      "end": 5.38
+    },
+    {
+      "word": "It,",
+      "start": 5.4,
+      "end": 5.52
+    },
+    {
+      "word": "it",
+      "start": 5.54,
+      "end": 5.62
+    },
+    {
+      "word": "hasn't",
+      "start": 5.641,
+      "end": 5.88
+    },
+    {
+      "word": "happened",
+      "start": 5.9,
+      "end": 6.1
+    },
+    {
+      "word": "at",
+      "start": 6.121,
+      "end": 6.201
+    },
+    {
+      "word": "all.",
+      "start": 6.24,
+      "end": 6.74
+    },
+    {
+      "word": "Um,",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "word": "have",
+      "start": 7.639,
+      "end": 7.82
+    },
+    {
+      "word": "you",
+      "start": 7.86,
+      "end": 8.04
+    },
+    {
+      "word": "seen",
+      "start": 8.08,
+      "end": 8.24
+    },
+    {
+      "word": "me",
+      "start": 8.279,
+      "end": 8.36
+    },
+    {
+      "word": "stutter",
+      "start": 8.441,
+      "end": 8.779
+    },
+    {
+      "word": "so",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "word": "far?",
+      "start": 8.98,
+      "end": 11.059
+    },
+    {
+      "word": "Oh,",
+      "start": 13.08,
+      "end": 13.219
+    },
+    {
+      "word": "what?",
+      "start": 13.279,
+      "end": 14.261
+    },
+    {
+      "word": "Oh,",
+      "start": 14.4,
+      "end": 14.98
+    },
+    {
+      "word": "okay.",
+      "start": 15.18,
+      "end": 15.98
+    },
+    {
+      "word": "Perfect!",
+      "start": 25.221,
+      "end": 25.841
+    },
+    {
+      "word": "Perfect.",
+      "start": 26.76,
+      "end": 27.561
+    },
+    {
+      "word": "Okay,",
+      "start": 29.64,
+      "end": 29.861
+    },
+    {
+      "word": "in",
+      "start": 29.88,
+      "end": 29.961
+    },
+    {
+      "word": "that",
+      "start": 30.001,
+      "end": 30.08
+    },
+    {
+      "word": "case,",
+      "start": 30.14,
+      "end": 30.319
+    },
+    {
+      "word": "let's",
+      "start": 30.341,
+      "end": 30.501
+    },
+    {
+      "word": "just",
+      "start": 30.539,
+      "end": 30.64
+    },
+    {
+      "word": "not",
+      "start": 30.659,
+      "end": 30.76
+    },
+    {
+      "word": "worry",
+      "start": 30.801,
+      "end": 30.92
+    },
+    {
+      "word": "about",
+      "start": 30.961,
+      "end": 31.14
+    },
+    {
+      "word": "it,",
+      "start": 31.159,
+      "end": 31.48
+    },
+    {
+      "word": "um,",
+      "start": 31.539,
+      "end": 31.819
+    },
+    {
+      "word": "and",
+      "start": 32.219,
+      "end": 32.54
+    },
+    {
+      "word": "pray.",
+      "start": 32.921,
+      "end": 33.501
+    },
+    {
+      "word": "Yeah,",
+      "start": 38.421,
+      "end": 38.58
+    },
+    {
+      "word": "it",
+      "start": 38.6,
+      "end": 38.64
+    },
+    {
+      "word": "seems",
+      "start": 38.719,
+      "end": 38.921
+    },
+    {
+      "word": "fine,",
+      "start": 38.96,
+      "end": 39.2
+    },
+    {
+      "word": "but",
+      "start": 39.221,
+      "end": 39.3
+    },
+    {
+      "word": "I",
+      "start": 39.4,
+      "end": 39.421
+    },
+    {
+      "word": "did",
+      "start": 39.441,
+      "end": 39.621
+    },
+    {
+      "word": "start",
+      "start": 39.681,
+      "end": 39.879
+    },
+    {
+      "word": "to",
+      "start": 39.9,
+      "end": 39.96
+    },
+    {
+      "word": "see",
+      "start": 40.039,
+      "end": 40.14
+    },
+    {
+      "word": "it",
+      "start": 40.159,
+      "end": 40.221
+    },
+    {
+      "word": "in",
+      "start": 40.24,
+      "end": 40.3
+    },
+    {
+      "word": "some",
+      "start": 40.319,
+      "end": 40.421
+    },
+    {
+      "word": "of",
+      "start": 40.421,
+      "end": 40.479
+    },
+    {
+      "word": "the",
+      "start": 40.479,
+      "end": 40.521
+    },
+    {
+      "word": "other",
+      "start": 40.559,
+      "end": 40.64
+    },
+    {
+      "word": "videos,",
+      "start": 40.681,
+      "end": 41.04
+    },
+    {
+      "word": "so",
+      "start": 41.039,
+      "end": 41.14
+    },
+    {
+      "word": "hopefully...",
+      "start": 41.159,
+      "end": 42.319
+    },
+    {
+      "word": "Fingers",
+      "start": 42.341,
+      "end": 42.58
+    },
+    {
+      "word": "crossed.",
+      "start": 42.64,
+      "end": 45.979
+    },
+    {
+      "word": "Um,",
+      "start": 48.36,
+      "end": 48.62
+    },
+    {
+      "word": "pretty",
+      "start": 50.52,
+      "end": 50.68
+    },
+    {
+      "word": "varied",
+      "start": 50.76,
+      "end": 51.02
+    },
+    {
+      "word": "conversations.",
+      "start": 51.08,
+      "end": 51.68
+    },
+    {
+      "word": "It's",
+      "start": 51.68,
+      "end": 51.779
+    },
+    {
+      "word": "been",
+      "start": 51.8,
+      "end": 51.92
+    },
+    {
+      "word": "quite",
+      "start": 51.941,
+      "end": 52.08
+    },
+    {
+      "word": "nice.",
+      "start": 52.18,
+      "end": 52.7
+    },
+    {
+      "word": "Uh,",
+      "start": 52.819,
+      "end": 53.039
+    },
+    {
+      "word": "the",
+      "start": 53.401,
+      "end": 53.501
+    },
+    {
+      "word": "conversation",
+      "start": 53.52,
+      "end": 53.96
+    },
+    {
+      "word": "with",
+      "start": 53.98,
+      "end": 54.08
+    },
+    {
+      "word": "Raj",
+      "start": 54.139,
+      "end": 54.4
+    },
+    {
+      "word": "was",
+      "start": 54.42,
+      "end": 54.539
+    },
+    {
+      "word": "particularly",
+      "start": 54.559,
+      "end": 54.98
+    },
+    {
+      "word": "funny.",
+      "start": 55.14,
+      "end": 55.84
+    },
+    {
+      "word": "Um,",
+      "start": 55.92,
+      "end": 56.08
+    },
+    {
+      "word": "he's,",
+      "start": 56.539,
+      "end": 56.76
+    },
+    {
+      "word": "he's",
+      "start": 56.76,
+      "end": 56.92
+    },
+    {
+      "word": "like",
+      "start": 56.92,
+      "end": 57.039
+    },
+    {
+      "word": "such",
+      "start": 57.059,
+      "end": 57.2
+    },
+    {
+      "word": "a",
+      "start": 57.24,
+      "end": 57.341
+    },
+    {
+      "word": "fun",
+      "start": 57.38,
+      "end": 57.539
+    },
+    {
+      "word": "dude",
+      "start": 57.64,
+      "end": 57.819
+    },
+    {
+      "word": "to",
+      "start": 57.841,
+      "end": 57.92
+    },
+    {
+      "word": "chat",
+      "start": 58.001,
+      "end": 58.2
+    },
+    {
+      "word": "to,",
+      "start": 58.24,
+      "end": 58.52
+    },
+    {
+      "word": "actually,",
+      "start": 58.539,
+      "end": 59.3
+    },
+    {
+      "word": "like",
+      "start": 59.36,
+      "end": 59.501
+    },
+    {
+      "word": "one-on-one.",
+      "start": 59.539,
+      "end": 60.461
+    },
+    {
+      "word": "Um,",
+      "start": 60.599,
+      "end": 60.801
+    },
+    {
+      "word": "he",
+      "start": 61.4,
+      "end": 61.86
+    },
+    {
+      "word": "started",
+      "start": 62.26,
+      "end": 62.521
+    },
+    {
+      "word": "and",
+      "start": 62.521,
+      "end": 62.559
+    },
+    {
+      "word": "was",
+      "start": 62.64,
+      "end": 62.76
+    },
+    {
+      "word": "instantly",
+      "start": 62.8,
+      "end": 63.08
+    },
+    {
+      "word": "like:",
+      "start": 63.14,
+      "end": 63.279
+    },
+    {
+      "word": "\"Okay,",
+      "start": 63.301,
+      "end": 63.659
+    },
+    {
+      "word": "what",
+      "start": 64.1,
+      "end": 64.24
+    },
+    {
+      "word": "prompts",
+      "start": 64.279,
+      "end": 64.479
+    },
+    {
+      "word": "do",
+      "start": 64.521,
+      "end": 64.58
+    },
+    {
+      "word": "we",
+      "start": 64.6,
+      "end": 64.681
+    },
+    {
+      "word": "need",
+      "start": 64.681,
+      "end": 64.819
+    },
+    {
+      "word": "to",
+      "start": 64.819,
+      "end": 64.941
+    },
+    {
+      "word": "use?",
+      "start": 65.001,
+      "end": 65.181
+    },
+    {
+      "word": "What",
+      "start": 65.2,
+      "end": 65.3
+    },
+    {
+      "word": "emotions",
+      "start": 65.379,
+      "end": 65.721
+    },
+    {
+      "word": "do",
+      "start": 65.76,
+      "end": 65.819
+    },
+    {
+      "word": "we",
+      "start": 65.841,
+      "end": 65.92
+    },
+    {
+      "word": "need",
+      "start": 65.941,
+      "end": 66.04
+    },
+    {
+      "word": "to",
+      "start": 66.04,
+      "end": 66.159
+    },
+    {
+      "word": "capture?",
+      "start": 66.181,
+      "end": 66.58
+    },
+    {
+      "word": "H-",
+      "start": 66.6,
+      "end": 66.7
+    },
+    {
+      "word": "should",
+      "start": 66.76,
+      "end": 66.841
+    },
+    {
+      "word": "we",
+      "start": 66.841,
+      "end": 66.921
+    },
+    {
+      "word": "do",
+      "start": 66.921,
+      "end": 67.021
+    },
+    {
+      "word": "some",
+      "start": 67.021,
+      "end": 67.159
+    },
+    {
+      "word": "role",
+      "start": 67.2,
+      "end": 67.379
+    },
+    {
+      "word": "play?\"",
+      "start": 67.421,
+      "end": 67.659
+    },
+    {
+      "word": "And",
+      "start": 67.659,
+      "end": 67.74
+    },
+    {
+      "word": "I",
+      "start": 67.76,
+      "end": 67.781
+    },
+    {
+      "word": "was",
+      "start": 67.819,
+      "end": 67.9
+    },
+    {
+      "word": "like:",
+      "start": 67.921,
+      "end": 68.001
+    },
+    {
+      "word": "\"You're",
+      "start": 68.021,
+      "end": 68.121
+    },
+    {
+      "word": "the",
+      "start": 68.14,
+      "end": 68.24
+    },
+    {
+      "word": "only",
+      "start": 68.319,
+      "end": 68.521
+    },
+    {
+      "word": "person",
+      "start": 68.559,
+      "end": 68.819
+    },
+    {
+      "word": "that",
+      "start": 68.879,
+      "end": 68.941
+    },
+    {
+      "word": "has",
+      "start": 68.961,
+      "end": 69.08
+    },
+    {
+      "word": "started",
+      "start": 69.14,
+      "end": 69.4
+    },
+    {
+      "word": "the",
+      "start": 69.421,
+      "end": 69.461
+    },
+    {
+      "word": "call",
+      "start": 69.539,
+      "end": 69.76
+    },
+    {
+      "word": "and",
+      "start": 69.801,
+      "end": 69.9
+    },
+    {
+      "word": "been",
+      "start": 69.921,
+      "end": 70.039
+    },
+    {
+      "word": "like,",
+      "start": 70.059,
+      "end": 70.26
+    },
+    {
+      "word": "'Right,",
+      "start": 70.301,
+      "end": 70.62
+    },
+    {
+      "word": "what",
+      "start": 70.659,
+      "end": 70.841
+    },
+    {
+      "word": "data",
+      "start": 70.861,
+      "end": 71.159
+    },
+    {
+      "word": "do",
+      "start": 71.24,
+      "end": 71.319
+    },
+    {
+      "word": "we",
+      "start": 71.341,
+      "end": 71.441
+    },
+    {
+      "word": "need?'\"",
+      "start": 71.501,
+      "end": 72.12
+    }
+  ],
+  "clip_0135": [
+    {
+      "word": "Um-",
+      "start": 1.96,
+      "end": 2.219
+    },
+    {
+      "word": "Oh!",
+      "start": 2.359,
+      "end": 8.74
+    },
+    {
+      "word": "Um,",
+      "start": 12.719,
+      "end": 22.719
+    },
+    {
+      "word": "yeah.",
+      "start": 22.74,
+      "end": 27.5
+    },
+    {
+      "word": "Oh.",
+      "start": 27.5,
+      "end": 32.219
+    },
+    {
+      "word": "Oh,",
+      "start": 48.1,
+      "end": 48.66
+    },
+    {
+      "word": "no!",
+      "start": 48.761,
+      "end": 52.179
+    },
+    {
+      "word": "Mm-hmm.",
+      "start": 57.559,
+      "end": 62.219
+    }
+  ],
+  "clip_0137": [
+    {
+      "word": "Like,",
+      "start": 1.23,
+      "end": 1.449
+    },
+    {
+      "word": "like",
+      "start": 1.47,
+      "end": 1.609
+    },
+    {
+      "word": "not",
+      "start": 1.649,
+      "end": 1.769
+    },
+    {
+      "word": "wanting",
+      "start": 1.789,
+      "end": 2.009
+    },
+    {
+      "word": "to",
+      "start": 2.009,
+      "end": 2.07
+    },
+    {
+      "word": "waste",
+      "start": 2.13,
+      "end": 2.33
+    },
+    {
+      "word": "time,",
+      "start": 2.449,
+      "end": 2.789
+    },
+    {
+      "word": "that",
+      "start": 2.989,
+      "end": 3.07
+    },
+    {
+      "word": "you",
+      "start": 3.09,
+      "end": 3.169
+    },
+    {
+      "word": "said",
+      "start": 3.189,
+      "end": 3.35
+    },
+    {
+      "word": "earlier?",
+      "start": 3.369,
+      "end": 3.749
+    },
+    {
+      "word": "Yeah.",
+      "start": 6.31,
+      "end": 8.109
+    },
+    {
+      "word": "Yeah.",
+      "start": 11.189,
+      "end": 11.549
+    },
+    {
+      "word": "Yeah.",
+      "start": 12.57,
+      "end": 12.909
+    },
+    {
+      "word": "Yeah.",
+      "start": 13.489,
+      "end": 19.509
+    },
+    {
+      "word": "It",
+      "start": 21.569,
+      "end": 21.69
+    },
+    {
+      "word": "sounds",
+      "start": 21.709,
+      "end": 21.85
+    },
+    {
+      "word": "like",
+      "start": 21.89,
+      "end": 21.97
+    },
+    {
+      "word": "that's",
+      "start": 21.989,
+      "end": 22.15
+    },
+    {
+      "word": "related",
+      "start": 22.169,
+      "end": 22.55
+    },
+    {
+      "word": "to",
+      "start": 22.63,
+      "end": 22.709
+    },
+    {
+      "word": "the",
+      "start": 22.749,
+      "end": 22.81
+    },
+    {
+      "word": "pursuit",
+      "start": 22.869,
+      "end": 23.249
+    },
+    {
+      "word": "thing,",
+      "start": 23.329,
+      "end": 24.329
+    },
+    {
+      "word": "because",
+      "start": 24.369,
+      "end": 24.57
+    },
+    {
+      "word": "if",
+      "start": 24.59,
+      "end": 24.65
+    },
+    {
+      "word": "you",
+      "start": 24.67,
+      "end": 24.749
+    },
+    {
+      "word": "pursue",
+      "start": 24.77,
+      "end": 25.17
+    },
+    {
+      "word": "someone,",
+      "start": 25.23,
+      "end": 25.63
+    },
+    {
+      "word": "yeah,",
+      "start": 25.669,
+      "end": 25.81
+    },
+    {
+      "word": "yeah,",
+      "start": 25.81,
+      "end": 25.93
+    },
+    {
+      "word": "it's",
+      "start": 25.949,
+      "end": 26.11
+    },
+    {
+      "word": "the",
+      "start": 26.13,
+      "end": 26.209
+    },
+    {
+      "word": "same",
+      "start": 26.249,
+      "end": 26.41
+    },
+    {
+      "word": "issues.",
+      "start": 26.449,
+      "end": 29.209
+    },
+    {
+      "word": "Yeah.",
+      "start": 31.409,
+      "end": 34.23
+    },
+    {
+      "word": "Yeah.",
+      "start": 36.029,
+      "end": 37.17
+    },
+    {
+      "word": "Oh!",
+      "start": 37.97,
+      "end": 38.109
+    },
+    {
+      "word": "Really?",
+      "start": 38.209,
+      "end": 38.569
+    },
+    {
+      "word": "Oh,",
+      "start": 40.59,
+      "end": 40.769
+    },
+    {
+      "word": "I",
+      "start": 40.789,
+      "end": 40.849
+    },
+    {
+      "word": "see.",
+      "start": 40.949,
+      "end": 41.229
+    },
+    {
+      "word": "That",
+      "start": 41.889,
+      "end": 42.049
+    },
+    {
+      "word": "helps.",
+      "start": 42.089,
+      "end": 44.03
+    },
+    {
+      "word": "Oh,",
+      "start": 44.149,
+      "end": 45.189
+    },
+    {
+      "word": "huh!",
+      "start": 45.249,
+      "end": 51.609
+    },
+    {
+      "word": "Mm-hmm.",
+      "start": 56.289,
+      "end": 57.869
+    },
+    {
+      "word": "Mm,",
+      "start": 58.73,
+      "end": 59.09
+    },
+    {
+      "word": "mm,",
+      "start": 59.15,
+      "end": 59.989
+    },
+    {
+      "word": "mm.",
+      "start": 60.05,
+      "end": 62.029
+    },
+    {
+      "word": "Wow!",
+      "start": 66.429,
+      "end": 67.05
+    },
+    {
+      "word": "And",
+      "start": 67.829,
+      "end": 67.91
+    },
+    {
+      "word": "she",
+      "start": 67.949,
+      "end": 68.029
+    },
+    {
+      "word": "didn't-",
+      "start": 68.05,
+      "end": 68.109
+    },
+    {
+      "word": "didn't",
+      "start": 68.169,
+      "end": 68.229
+    },
+    {
+      "word": "realize?",
+      "start": 68.249,
+      "end": 68.769
+    },
+    {
+      "word": "Or",
+      "start": 69.469,
+      "end": 69.549
+    },
+    {
+      "word": "she",
+      "start": 69.569,
+      "end": 69.649
+    },
+    {
+      "word": "doesn't",
+      "start": 69.649,
+      "end": 69.789
+    },
+    {
+      "word": "remember?",
+      "start": 69.809,
+      "end": 72.749
+    },
+    {
+      "word": "Yeah.",
+      "start": 75.249,
+      "end": 78.509
+    }
+  ]
+}
