@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 ROOT_DIR = Path(__file__).resolve().parent.parent
 CLIPS_DIR = ROOT_DIR / "data/clips"
 OUTPUT_PATH = ROOT_DIR / "output.json"
+# WORDS_PER_CHUNK = 10
 CONCURRENCY = 4
 REQUEST_TIMEOUT_SECONDS = 60
 MAX_REQUEST_RETRIES = 5
@@ -177,6 +178,26 @@ async def run_pipeline(
     return results
 
 
+# def chunk_words(words: list[dict]) -> list[dict]:
+#     """Group words by tens with shared midpoints and the last word's final end.
+#
+#     Preserve supplied timings even when repeated timestamps give zero duration.
+#     """
+#     chunks = []
+#     for offset in range(0, len(words), WORDS_PER_CHUNK):
+#         group = words[offset : offset + WORDS_PER_CHUNK]
+#         next_offset = offset + len(group)
+#         end = group[-1]["end"]
+#         if next_offset < len(words):
+#             end = (end + words[next_offset]["start"]) / 2
+#         chunks.append({
+#             "start": chunks[-1]["end"] if chunks else group[0]["start"],
+#             "end": end,
+#             "text": " ".join(word["word"] for word in group),
+#         })
+#     return chunks
+
+
 def write_results(results: dict, path: Path) -> None:
     """Replace the output only after a complete JSON file has been written."""
     temporary_path = None
@@ -231,8 +252,16 @@ def main() -> None:
     reserve_seconds = min(OUTPUT_RESERVE_SECONDS, budget_seconds * 0.1)
     results = asyncio.run(run(base_url, api_key, budget_seconds - reserve_seconds))
     write_results(results, OUTPUT_PATH)
+    # chunks = {
+    #     clip_id: chunk_words(result.get("alignment", []))
+    #     if result["status"] == "ok" else []
+    #     for clip_id, result in results.items()
+    # }
+    # chunks_path = OUTPUT_PATH.with_name("chunks.json")
+    # write_results(chunks, chunks_path)
     succeeded = sum(result["status"] == "ok" for result in results.values())
     print(f"wrote {len(results)} results to {OUTPUT_PATH} ({succeeded} succeeded)")
+    # print(f"wrote {sum(len(rows) for rows in chunks.values())} chunks to {chunks_path}")
 
 
 if __name__ == "__main__":
